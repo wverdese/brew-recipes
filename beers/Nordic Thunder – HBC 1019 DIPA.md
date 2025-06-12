@@ -134,9 +134,10 @@ Adjust with **CaCl₂** and **gypsum** to suit.
 | Carapils                          | 0.3 kg |        | For head retention      |   8.70 kr | [HolmBrew](https://holmbrew.no/produkt/best-caramel-pils-1-kg-hel) |
 | Acidulated Malt                   | 0.2 kg |        | For mash pH adjustment  |   7.20 kr | [HolmBrew](https://holmbrew.no/produkt/best-acidulated-malt-1-kg-hel) |
 | Magnum Hops                       | 10 g   | 100 g  | Bittering hop           |  89.00 kr | [HolmBrew](https://holmbrew.no/produkt/magnum-humle-t90-100-g) |
-| HBC 1019 Hops                     | 180 g  | 200 g  | Whirlpool + dry hop     |
+| HBC 1019 Hops                     | 180 g  | 350 g  | Whirlpool + dry hop     | 442,42 kr | [LiteBrygg](https://www.litebrygg.no/products/hbc-1019-2024-50gr) |
 | El Dorado Hops                    | 30 g   | 100 g  | Whirlpool               |  99.00 kr | [HolmBrew](https://holmbrew.no/produkt/el-dorado-100g) |
 | Citra Hops              | 30-50 g | 100 g  | Optional for complexity | 109.00 kr | [HolmBrew](https://holmbrew.no/produkt/citra-humle-t90-100-g) |
 | Mangrove Jack's M12 Kveik Yeast   | 1 bag  |        | Dry                     |  69.00 kr | [HolmBrew](https://holmbrew.no/produkt/kveik-m12) |
 | Table Sugar (plain white)         | 300 g  | 1 kg   | Boost OG & dryness      |           | Supermarket |
 | **HolmBrew total**                |        |        |                         | **567,80 kr** |         |
+| **Litebrygg total**               |        |        | Inl. shipping costs     | **547.07 kr** |         |
