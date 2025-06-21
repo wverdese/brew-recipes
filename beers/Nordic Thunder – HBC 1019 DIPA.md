@@ -1,6 +1,6 @@
 # 🍺 Nordic Thunder – HBC 1019 DIPA (20L Braumeister Version, 18–20°C Fermentation)
 
-![20250621191149_1](https://github.com/user-attachments/assets/208cbfaf-ad34-47cd-bca6-2f78040f5104)
+![20250621191243_1](https://github.com/user-attachments/assets/c3bf935f-36d5-406e-a2ac-6762288d2064)
 
 ## Target Stats
 - **OG**: ~1.072
