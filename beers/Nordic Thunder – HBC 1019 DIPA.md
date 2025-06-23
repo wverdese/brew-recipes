@@ -24,14 +24,17 @@
 
 ---
 
-## Water Profile (recommended)
+## Water 
 
+### Profile (recommended)
 - **Ca**: 100–120 ppm
 - **Mg**: 10 ppm
 - **Cl**: 150 ppm
 - **SO₄**: 50 ppm
 
-Adjust with **CaCl₂** and **gypsum** to suit.
+### PH
+- 5.4 to 5.5
+  
 
 ---
 
@@ -65,6 +68,7 @@ Adjust with **CaCl₂** and **gypsum** to suit.
 
 - Remove malt pipe after mash-out.
 - Rinse grain with ~3–4L of 75°C water to top up to pre-boil volume (~26L).
+- Expected gravity should be around 1.055. A lower gravity will result in a more bitter beer.
 
 ### Hop Schedule (~40 IBU total)
 
@@ -72,15 +76,15 @@ Adjust with **CaCl₂** and **gypsum** to suit.
 |--------|-----------------------|------------------|---------------------------------|--------------------------------------------|
 | 0      | Start of Boil         | 100°C            | None                            | Begin 90-minute boil                        |
 | 0      | Add Sugar ⚠️          | 100°C            | None                            | 300 g                                       |
-| 60     | 60 min boil           | 100°C            | Add 25g Magnum                  | Bittering hop addition                      |
-| 60     | 10 min boil           | 100°C            | Add 20g El Dorado               | Bittering hop addition                      |
-| 90     | Flameout              | ~100°C → cool    | Add 30g HBC 1019 + 30g El Dorado | Begin hop stand at 75–80°C after cooling wort |
-| 92     | Hop Stand             | ~75–80°C         | —                              | Stir gently for 1–2 minutes                  |
-| 92–112 | Hop Stand             | ~75–80°C         | —                              | Let hops steep for 20 minutes, cover kettle |
+| 60     | 60 min boil           | 100°C            | Add 20g Magnum                  | Bittering hop addition (~28.5 IBU)          |
+| 60     | 10 min boil           | 100°C            | Add 20g El Dorado               | Bittering hop addition (~9.5 IBU)           |
+| 90     | Flameout              | ~100°C → cool    | Remove hops                    | Begin hop stand at 75–80°C after cooling wort |
+| 92     | Hop Stand             | ~78°C            | Add 30g HBC 1019 + 30g El Dorado | Stir gently for 1–2 minutes                  |
+| 92–112 | Hop Stand             | ~78°C            | —                              | Steep for 20 minutes, cover kettle (~2 IBU) |
 
 #### Notes:
 
-- ⚠️ In the simulation, I reached a starting gravity of 1.074 by just adding water and malts. Check with a density reading if adding the sugar is reall necessary.
+- ⚠️ In the simulation, I reached a starting gravity of 1.074 by just adding water and malts. Check the density to determine if adding sugar is really necessary.
 - If you lack a whirlpool, perform the hop stand by stirring hops manually at flameout as wort cools to 75–80°C.
 - Cover kettle during hop stand to reduce oxygen uptake.
 - Use hop bags or spider during dry hopping if preferred for easier removal.
@@ -134,7 +138,7 @@ Adjust with **CaCl₂** and **gypsum** to suit.
 | Wheat Malt                        | 0.8 kg |        | For body & haze         |  22.40 kr | [HolmBrew](https://holmbrew.no/produkt/best-wheat-malt-1-kg-hel) | 
 | Carapils                          | 0.3 kg |        | For head retention      |   8.70 kr | [HolmBrew](https://holmbrew.no/produkt/best-caramel-pils-1-kg-hel) |
 | Acidulated Malt                   | 0.2 kg |        | For mash pH adjustment  |   7.20 kr | [HolmBrew](https://holmbrew.no/produkt/best-acidulated-malt-1-kg-hel) |
-| Magnum Hops                       | 25 g   | 100 g  | Bittering hop           |  89.00 kr | [HolmBrew](https://holmbrew.no/produkt/magnum-humle-t90-100-g) |
+| Magnum Hops                       | 20 g   | 100 g  | Bittering hop           |  89.00 kr | [HolmBrew](https://holmbrew.no/produkt/magnum-humle-t90-100-g) |
 | HBC 1019 Hops                     | 150 g  | 350 g  | Hop Stand + dry hop     | 442,42 kr | [LiteBrygg](https://www.litebrygg.no/products/hbc-1019-2024-50gr) |
 | El Dorado Hops                    | 50 g   | 100 g  | Hop Stand               |  99.00 kr | [HolmBrew](https://holmbrew.no/produkt/el-dorado-100g) |
 | Citra Hops              | 30-50 g | 100 g  | Optional for complexity | 109.00 kr | [HolmBrew](https://holmbrew.no/produkt/citra-humle-t90-100-g) |
@@ -153,7 +157,7 @@ Adjust with **CaCl₂** and **gypsum** to suit.
 | Wheat Malt                        | Malted Wheat                      | 0.8 kg |
 | Carapils                          | Ultra Pale Crystal                | 0.3 kg |
 | Acidulated Malt                   | Sour Malt                         | 0.2 kg |
-| Magnum Hops (Boil)                | Magnus                            | 25 g   |
+| Magnum Hops (Boil)                | Magnus                            | 20 g   |
 | El Dorado Hops (Boil)             | Sanborn (Amarillo) + Sitra (Citra) | 10 + 10 g   |
 | HBC 1019 Hops (Hop Stand)         | Tesseræ (Mosaic)                  | 30 g   |
 | El Dorado Hops (Hop Stand)        | Sanborn (Amarillo) + Sitra (Citra) | 15 + 15 g   |
