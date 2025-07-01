@@ -99,13 +99,26 @@
 
 - **Mangrove Jack’s M12 Kveik** (1 sachet, no starter required).
 
+### Fermentation Timeline with Voss Kveik (18–20 °C)
+
+| Day | Stage                  | Approx. SG | Notes                                                                 |
+|-----|------------------------|------------|-----------------------------------------------------------------------|
+| 0   | Pitch yeast            | 1.074      | Well-aerated wort, start of fermentation                             |
+| 1   | Lag phase ends         | 1.050–1.055| Visible krausen, CO₂ starting                                         |
+| 2   | Rapid fermentation     | 1.035–1.040| High krausen, heat generation, very active yeast                      |
+| 3   | Peak fermentation      | 1.025–1.030| Still vigorous, nearing attenuation midpoint                          |
+| 4   | Approaching finish     | 1.020–1.025| **→ First dry hop here for biotransformation**                        |
+| 5   | Slowing down           | 1.018–1.020| Krausen drops, yeast begins cleanup                                   |
+| 6   | Final gravity reached  | 1.012–1.014| Yeast flocculating, may begin cold crash prep                         |
+| 7+  | Stable FG              | 1.012      | Confirm gravity is stable before packaging                           |
+
 ### Dry-Hopping Schedule
 
-| Day | Stage                 | Temperature      | Hop Addition                     | Notes                                      |
-|--------|-----------------------|------------------|---------------------------------|--------------------------------------------|
-| Day 4–5| First Dry Hop         | Fermentation ~18–20°C | Add 60g HBC 1019 + 20 g Citra | Biotransformation dry hop at high krausen   |
-| Day 8–9| Second Dry Hop        | Fermentation ~18–20°C | Add 60g HBC 1019 + 20 g Citra | Post-fermentation dry hop                    |
-| Day 11–13 | Bottle        | Fermentation ~18–20°C | - | Leaving 2-4 days for the last dry hopping to take effect |
+| Day | Expected SG | Stage                 | Temperature      | Hop Addition                     | Notes                                      |
+|---------|---------|--------------|------------------|---------------------------------|--------------------------------------------|
+| Day 4–5 | 1.018–1.020 | First Dry Hop         | Fermentation ~18–20°C | Add 60g HBC 1019 + 20 g Citra | Biotransformation dry hop at high krausen   |
+| Day 8–9 | 1.012 | Second Dry Hop        | Fermentation ~18–20°C | Add 60g HBC 1019 + 20 g Citra | Post-fermentation dry hop                    |
+| Day 11–13 | 1.012 | Bottle        | Fermentation ~18–20°C | - | Leaving 2-4 days for the last dry hopping to take effect |
 
 ### Packaging
 
