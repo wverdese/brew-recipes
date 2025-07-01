@@ -99,24 +99,26 @@
 
 - **Mangrove Jack’s M12 Kveik** (1 sachet, no starter required).
 
-### Fermentation Timeline with Voss Kveik (18–20 °C)
+### Fermentation Timeline with Voss Kveik (@ 20–22 °C, OG 1.072)
 
 | Day | Stage                  | Approx. SG | Notes                                                                 |
 |-----|------------------------|------------|-----------------------------------------------------------------------|
-| 0   | Pitch yeast            | 1.074      | Well-aerated wort, start of fermentation                             |
-| 1   | Lag phase ends         | 1.050–1.055| Visible krausen, CO₂ starting                                         |
-| 2   | Rapid fermentation     | 1.035–1.040| High krausen, heat generation, very active yeast                      |
-| 3   | Peak fermentation      | 1.025–1.030| Still vigorous, nearing attenuation midpoint                          |
-| 4   | Approaching finish     | 1.020–1.025| **→ First dry hop here for biotransformation**                        |
-| 5   | Slowing down           | 1.018–1.020| Krausen drops, yeast begins cleanup                                   |
-| 6   | Final gravity reached  | 1.012–1.014| Yeast flocculating, may begin cold crash prep                         |
-| 7+  | Stable FG              | 1.012      | Confirm gravity is stable before packaging                           |
+| 0   | Pitch yeast            | 1.072      | Well-aerated wort, fermentation begins slowly                         |
+| 1   | Early activity         | 1.050–1.055| Krausen forms, CO₂ starts to build                                    |
+| 2   | Peak fermentation      | 1.030–1.040| Very active, high krausen, visible bubbling                           |
+| 3   | Rapid attenuation      | 1.020–1.028| Gravity drops fast                                                    |
+| 4   | Slowing down           | 1.016–1.020| **→ First dry hop for biotransformation**                             |
+| 5   | Approaching FG         | 1.014–1.018| Krausen receding, aroma developing                                    |
+| 6   | Reaching terminal FG   | 1.012–1.014| Clean-up phase, start cold crash if kegging                           |
+| 7–8 | Stable FG              | 1.012      | Hold for at least 2–3 days stability before packaging                 |
+
+
 
 ### Dry-Hopping Schedule
 
 | Day | Expected SG | Stage                 | Temperature      | Hop Addition                     | Notes                                      |
 |---------|---------|--------------|------------------|---------------------------------|--------------------------------------------|
-| Day 4–5 | 1.018–1.020 | First Dry Hop         | Fermentation ~18–20°C | Add 60g HBC 1019 + 20 g Citra | Biotransformation dry hop at high krausen   |
+| Day 4–5 | 1.016–1.018 | First Dry Hop         | Fermentation ~18–20°C | Add 60g HBC 1019 + 20 g Citra | Biotransformation dry hop at high krausen   |
 | Day 8–9 | 1.012 | Second Dry Hop        | Fermentation ~18–20°C | Add 60g HBC 1019 + 20 g Citra | Post-fermentation dry hop                    |
 | Day 11–13 | 1.012 | Bottle        | Fermentation ~18–20°C | - | Leaving 2-4 days for the last dry hopping to take effect |
 
