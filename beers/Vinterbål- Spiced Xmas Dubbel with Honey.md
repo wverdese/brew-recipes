@@ -6,7 +6,7 @@
 | **Batch Size**    | 20 L                                     |
 | **ABV**           | ~7.5%                                   |
 | **IBU**           | ~20                                     |
-| **Color (SRM)**   | 25–30 (deep amber-brown)               |
+| **Color (SRM)**   | 35–38 (dark amber-brown)               |
 | **Yeast**         | Voss Kveik                             |
 | **Fermentation**  | 20–22 °C (or 25 °C for kveik)           |
 
@@ -18,10 +18,11 @@
 |----------------------------|------------|
 | Pilsner Malt               | 3.5 kg     |
 | Munich Malt                | 1.0 kg     |
-| Special B                  | 400 g      |
+| Special B                  | 500 g      |
 | Caramunich II              | 250 g      |
+| Chocolate Malt             | 150 g      |
 | Smoked Malt (Whiskey)      | 200 g      |
-| Chocolate Malt             | 100 g      |
+| Carafa Special II (dehusked) | 100 g    |
 
 ---
 
@@ -44,11 +45,13 @@
 
 ### 🧂 Christmas Spice Blend (Subtle)
 
-| **Spice**          | **Amount**          | **Form**         | **Usage**            | **Notes**                      |
-|--------------------|---------------------|------------------|----------------------|-------------------------------|
-| Cardamom pods      | 1 g (crushed)       | Whole pods       | Last 5 min of boil   | Light floral, warming aroma    |
-| Orange peel        | ~2.5 g (zest of ½ orange) | Fresh or dried | Last 5 min of boil   | Bright citrus balance      |
-| Cinnamon stick     | 2 g (¼ stick)       | Whole stick      | Last 10 min of boil  | Subtle festive warmth          |
+### 🧂 Enhanced Christmas Spice Blend
+
+| **Spice**           | **Amount**          | **Form**             | **Usage**            | **Notes**                                |
+|---------------------|---------------------|----------------------|----------------------|-------------------------------------------|
+| Cardamom pods       | 2 g (lightly crushed) | Whole pods          | Last 5 min of boil   | Floral-spice warmth       |
+| Bitter orange peel  | ~5 g                 | Dried                | Last 5 min of boil   | Herbal citrus, richer than sweet orange   |
+| Cinnamon stick      | 4 g (½ stick)        | Whole stick          | Last 10 min of boil  | Warm, festive backbone spice              |
 
 ---
 
