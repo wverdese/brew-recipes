@@ -43,9 +43,7 @@
 
 ---
 
-### 🧂 Christmas Spice Blend (Subtle)
-
-### 🧂 Enhanced Christmas Spice Blend
+### 🧂 Christmas Spice Blend
 
 | **Spice**           | **Amount**          | **Form**             | **Usage**            | **Notes**                                |
 |---------------------|---------------------|----------------------|----------------------|-------------------------------------------|
