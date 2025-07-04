@@ -110,7 +110,8 @@
 | 4   | Slowing down           | 1.016–1.020| **→ First dry hop for biotransformation**                             |
 | 5   | Approaching FG         | 1.014–1.018| Krausen receding, aroma developing                                    |
 | 6   | Reaching terminal FG   | 1.012–1.014| Clean-up phase, start cold crash if kegging                           |
-| 7–8 | Stable FG              | 1.012      | Hold for at least 2–3 days stability before packaging                 |
+| 7 | Stable FG                | 1.012      |  **→ Second dry hop for fresh aroma** |
+| 8–9 | Stable FG              | 1.012      |  Hold for stability for at least 2–3 days before packaging|
 
 
 
@@ -118,9 +119,9 @@
 
 | Day | Expected SG | Stage                 | Temperature      | Hop Addition                     | Notes                                      |
 |---------|---------|--------------|------------------|---------------------------------|--------------------------------------------|
-| Day 4–5 | 1.016–1.018 | First Dry Hop         | Fermentation ~18–20°C | Add 60g HBC 1019 + 20 g Citra | Biotransformation dry hop at high krausen   |
-| Day 8–9 | 1.012 | Second Dry Hop        | Fermentation ~18–20°C | Add 60g HBC 1019 + 20 g Citra | Post-fermentation dry hop                    |
-| Day 11–13 | 1.012 | Bottle        | Fermentation ~18–20°C | - | Leaving 2-4 days for the last dry hopping to take effect |
+| Day 4 | 1.016–1.018 | First Dry Hop         | Fermentation ~18–20°C | Add 60g HBC 1019 + 20 g Citra | Biotransformation dry hop at high krausen   |
+| Day 7 | 1.012 | Second Dry Hop        | Fermentation ~18–20°C | Add 60g HBC 1019 + 20 g Citra | Post-fermentation dry hop                    |
+| Day 9 | 1.012 | Bottle        | Fermentation ~18–20°C | - | Leaving 2-4 days for the last dry hopping to take effect |
 
 ### Packaging
 
