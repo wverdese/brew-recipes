@@ -1,3 +1,6 @@
+![20250705234044_1](https://github.com/user-attachments/assets/8fa2bcde-950b-4795-b9bb-48b4c73fbce1)
+
+
 # 🎄 Vinterbål – Smoked Christmas Dubbel with Chestnut Honey
 
 | **Category**      | **Details**                            |
@@ -53,12 +56,62 @@
 
 ---
 
-## 🔬 Mash Schedule
+# 🛠 Step-by-Step Instructions
 
-| **Step**       | **Temp** | **Time** |
-|----------------|----------|----------|
-| Sacch. Rest    | 67 °C    | 60 min   |
-| Mash-out       | 75 °C    | 10 min   |
+## 1. **Water Prep**
+- Target mash pH: 5.3–5.4
+
+### 💧 Braumeister 20L – Water & Volume Plan (20L Batch)
+
+| **Stage**               | **Volume**        | **Notes**                                                         |
+|--------------------------|-------------------|--------------------------------------------------------------------|
+| Mash-in water            | 25–26 L            | Full-volume mash; no sparge needed                                |
+| Grain absorption         | ~7.5 L             | Approx. 1.1 L/kg for 6.7 kg grain                                 |
+| Boil duration            | 90 minutes         | Extended boil for rich malt profile and concentration             |
+| Boil-off loss            | ~3.0 L             | Depends on vigor and whether lid is on/off                        |
+| Trub + honey + hops loss | ~1.5–2.0 L         | Includes sediment, chestnut honey, hop material                   |
+| Into fermenter           | ~20.0 L            | Target batch size                                                 |
+
+
+## 2. 🧾 Mash Schedule
+
+| **Step**       | **Temperature** | **Time**      | **Notes**                                |
+|----------------|------------------|----------------|-------------------------------------------|
+| Heat-strike    | ~72°C            |  0 min         | Add grains, stabilize mash at 67°C        |
+| Mash-in        | ~67°C            | 60 min         | Stable saccharification rest              |
+| Mash-out       | 75°C             | 10 min (optional) | Helps wort run-off if lautering        |
+
+## 3. **Sparge and Collect Wort**
+- Sparge as needed to collect ~27L pre-boil volume  
+- Aim for boil gravity around 1.055
+
+## 4. 🔥 Boil Schedule (90 min total)
+
+| **Time Remaining** | **Addition**                     | **Amount**             | **Notes**                                  |
+|--------------------|----------------------------------|------------------------|---------------------------------------------|
+| 90 min             | Start boil                       | —                      | Full-volume boil                            |
+| 60 min             | Styrian Goldings                 | 30 g                   | Bittering addition (~20 IBU)                |
+| 15 min             | Belgian dark candi sugar         | 300 g                  | Stir to dissolve                            |
+| 10 min             | Cinnamon stick                   | 4 g (½ stick)          | Adds warm spice                             |
+| 5 min              | Bitter orange peel, cardamom     | 5 g, 2 g               | Final spice aroma additions                 |
+| Flame-out          | Chestnut honey, nutmeg (pinch)   | 500 g                  | Honey aroma                                 |
+
+## 5. **Fermentation**
+- Expected OG: 1.078
+- Pitch BE-256 yeast at **18–22°C**
+- Primary fermentation: ~7–10 days  
+- Target FG: ~1.010–1.014  
+- Optional: 5–7 days cold conditioning or secondary rest
+
+## 6. **Packaging & Carbonation**
+- Bottle or keg with priming sugar for **2.3–2.6 vol CO₂**  
+- Condition **at least 3–4 weeks** for spice & honey to mellow
+
+## 7. **Tasting Notes (after conditioning)**
+- **Appearance:** Deep brown with ruby highlights, persistent tan head  
+- **Aroma:** Chestnut honey, dried fruit, soft smoke, gentle spice  
+- **Flavor:** Dark malt, toffee, spice warmth, clean Belgian finish  
+- **Mouthfeel:** Medium-bodied, smooth, warming
 
 ---
 
