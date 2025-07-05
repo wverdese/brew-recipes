@@ -1,7 +1,8 @@
+# 🎄 Vinterbål – Smoked Christmas Dubbel with Chestnut Honey
+
 ![20250705234044_1](https://github.com/user-attachments/assets/8fa2bcde-950b-4795-b9bb-48b4c73fbce1)
 
-
-# 🎄 Vinterbål – Smoked Christmas Dubbel with Chestnut Honey
+## Target Stats
 
 | **Category**      | **Details**                            |
 |-------------------|-----------------------------------------|
