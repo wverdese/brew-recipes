@@ -11,8 +11,8 @@
 | **ABV**           | ~7.5%                                   |
 | **IBU**           | ~20                                     |
 | **Color (SRM)**   | 35–38 (dark amber-brown)               |
-| **Yeast**         | Fermentis BE-256 or Voss Kveik         |
-| **Fermentation**  | 20–22 °C (or 25 °C for kveik)           |
+| **Yeast**         | Fermentis BE-256                        |
+| **Fermentation**  | 20–22 °C                               |
 
 ---
 
@@ -57,6 +57,41 @@
 
 ---
 
+## 🧬 Yeast: Fermentis BE-256 (Abbaye)
+
+| Attribute               | **BE-256**                               |
+|-------------------------|------------------------------------------|
+| **Yeast Type**          | Belgian Abbey Ale (dry)                  |
+| **Attenuation**         | 80–84%                                   |
+| **Flocculation**        | Medium                                   |
+| **Temperature Range**   | 18–25°C                                  |
+| **Fermentation Speed**  | Moderate (5–7 days)                      |
+| **Aroma/Flavor**        | Dark fruit, raisin, clove, medium esters |
+| **Phenolics (spice)**   | Moderate                                 |
+| **Fermentation Profile**| Balanced, Belgian character              |
+| **Alcohol Tolerance**   | Up to 10–11%                             |
+| **Ideal for**           | Abbey ales, dubbels, tripels             |
+
+### Pitch Rate
+
+| Attribute           | Value                 |
+|---------------------|-----------------------|
+| OG                  | 1.078                 |
+| Volume              | 20L                   |
+| Target Pitch Rate   | 1.0                   |
+| Yeast type          | Dry                   |
+| Yeast amount        | 34.5 g (3 packets)    |
+| Cell density        | 12 billion cells/gram* |
+| **Cells available** | 408 billion           |
+| **Target cells**    | 378 billion           |
+| **Difference**      | +36 billion ✅        |
+
+*Fermentis guarantees at least 6 billion cells/gram. However, 12	reflects more empirically the typical actual performance in good storage.
+
+Source: https://www.brewersfriend.com/yeast-pitch-rate-and-starter-calculator/#cells_per_gram
+
+---
+
 # 🛠 Step-by-Step Instructions
 
 ## 1. **Water Prep**
@@ -64,8 +99,8 @@
 
 ### 💧 Braumeister 20L – Water & Volume Plan (20L Batch)
 
-| **Stage**               | **Volume**        | **Notes**                                                         |
-|--------------------------|-------------------|--------------------------------------------------------------------|
+| **Stage**               | **Volume**          | **Notes**                                                         |
+|--------------------------|--------------------|-------------------------------------------------------------------|
 | Mash-in water            | 25–26 L            | Full-volume mash; no sparge needed                                |
 | Grain absorption         | ~7.5 L             | Approx. 1.1 L/kg for 6.7 kg grain                                 |
 | Boil duration            | 90 minutes         | Extended boil for rich malt profile and concentration             |
@@ -93,74 +128,79 @@
 | 90 min             | Start boil                       | —                      | Full-volume boil                            |
 | 60 min             | Styrian Goldings                 | 30 g                   | Bittering addition (~20 IBU)                |
 | 15 min             | Belgian dark candi sugar         | 300 g                  | Stir to dissolve                            |
-| 10 min             | Cinnamon stick                   | 4 g (½ stick)          | Adds warm spice                             |
-| 5 min              | Bitter orange peel, cardamom     | 5 g, 2 g               | Final spice aroma additions                 |
-| Flame-out          | Chestnut honey, nutmeg (pinch)   | 500 g                  | Honey aroma                                 |
+| 10 min             | Cinnamon stick                   | 3 sticks (24 g), crushed | Adds warm spice                           |
+| 10 min             | Servomyces yeast nutrient        | 2 g                    | Improves fermentation health                |
+| 5 min              | Bitter orange peel, cardamom     | 10 g, 8 g               | Final spice aroma additions                 |
+| Flame-out          | Chestnut honey                   | 500 g                  | Honey aroma                                 |
 
 ## 5. **Fermentation**
 - Expected OG: 1.078
-- Pitch BE-256 yeast at **18–22°C**
+- Pitch **3 packs of BE-256 yeast** at **18–22°C**
 - Primary fermentation: ~7–10 days  
 - Target FG: ~1.010–1.014  
 - Optional: 5–7 days cold conditioning or secondary rest
 
 ## 6. **Packaging & Carbonation**
-- Bottle or keg with priming sugar for **2.3–2.6 vol CO₂**  
+- Bottle or keg with priming sugar (~100 g) for **2.3–2.6 vol CO₂**
 - Condition **at least 3–4 weeks** for spice & honey to mellow
 
-## 7. **Tasting Notes (after conditioning)**
+- ---
+
+## 🧪 Notes
+- Age **3–4 weeks minimum** for full spice/malt integration
+- Consider using a **spice tincture** (vodka-based) for precision at packaging
+- Smoked malt adds **background hearth aroma**, not overpowering
+
+### Tasting Notes
 - **Appearance:** Deep brown with ruby highlights, persistent tan head  
 - **Aroma:** Chestnut honey, dried fruit, soft smoke, gentle spice  
 - **Flavor:** Dark malt, toffee, spice warmth, clean Belgian finish  
 - **Mouthfeel:** Medium-bodied, smooth, warming
 
 ---
-
-## 🧬 Yeast Comparison: Fermentis BE-256 (Abbaye) vs Voss Kveik
-
-| Attribute               | **BE-256**                               | **Voss Kveik**                           |
-|-------------------------|------------------------------------------|------------------------------------------|
-| **Yeast Type**          | Belgian Abbey Ale (dry)                  | Traditional Norwegian farmhouse yeast    |
-| **Attenuation**         | 80–84%                                   | 75–82% (can go higher at warmer temps)   |
-| **Flocculation**        | Medium                                   | High                                     |
-| **Temperature Range**   | 18–25°C                                   | 20–40°C (clean at low, fruity at high)   |
-| **Fermentation Speed**  | Moderate (5–7 days)                      | Very fast (2–3 days at 30+°C)            |
-| **Aroma/Flavor**        | Dark fruit, raisin, clove, medium esters | Orange peel, stone fruit, tangerine      |
-| **Phenolics (spice)**   | Moderate                                 | Low (unless fermented very cool)         |
-| **Fermentation Profile**| Balanced, Belgian character              | Bold, fruity, less traditional           |
-| **Alcohol Tolerance**   | Up to 10–11%                             | Up to 12%+                                |
-| **Ideal for**           | Abbey ales, dubbels, tripels             | Modern farmhouse ales, quick ales        |
-
----
-
-## 🧪 Notes
-
-- Carbonate to **2.3–2.6 vol CO₂**
-- Age **3–4 weeks minimum** for full spice/malt integration
-- Consider using a **spice tincture** (vodka-based) for precision at packaging
-- Smoked malt adds **background hearth aroma**, not overpowering
-
----
 # 🛒 Shopping List
+
+### Round 1
 
 | Ingredient                        | Needed  | To buy | Price     | Crush    | URL   |
 |-----------------------------------|---------|--------|-----------|----------|-------|
-| Pilsner Malt                      | 3.50 kg |        | 129,50 kr | 35,00 kr | [HolmBrew](https://holmbrew.no/produkt/best-pilsen-malt-1-kg-hel) |
-| Munich Malt                       | 1.00 kg |        |  38.00 kr | 10,00 kr | [HolmBrew](https://holmbrew.no/produkt/best-munich-malt-1-kg-hel) |
-| Special B                         | 0.50 kg |        |  21.50 kr |  5,00 kr | [HolmBrew](https://holmbrew.no/produkt/special-b-1-kg-hel) | 
-| Caramunich II                     | 0.25 kg |        |   9.50 kr |  2,50 kr | [HolmBrew](https://holmbrew.no/produkt/best-caramel-munich-ii-1-kg-hel) |
-| Smoked Malt (Whiskey)             | 0.20 kg |        |  10.80 kr |  2,00 kr | [HolmBrew](https://holmbrew.no/produkt/smoked-malt-1-kg) |
-| Chocolate Malt                    | 0.15 kg |        |   6.60 kr |  1,50 kr | [HolmBrew](https://holmbrew.no/produkt/crisp-chocolate-malt-1-kg-hel) |
-| Carafa Spesial II                 | 0.10 kg |        |   4,60 kr |  1,00 kr | [HolmBrew](https://holmbrew.no/produkt/weyermann-carafa-spesial-ii-1-kg-hel) |
+| Pilsner Malt                      | 3.50 kg |        | 129,50 kr | 35.00 kr | [HolmBrew](https://holmbrew.no/produkt/best-pilsen-malt-1-kg-hel) |
+| Munich Malt                       | 1.00 kg |        |  38.00 kr | 10.00 kr | [HolmBrew](https://holmbrew.no/produkt/best-munich-malt-1-kg-hel) |
+| Special B                         | 0.50 kg |        |  21.50 kr |  5.00 kr | [HolmBrew](https://holmbrew.no/produkt/special-b-1-kg-hel) | 
+| Caramunich II                     | 0.25 kg |        |   9.50 kr |  2.50 kr | [HolmBrew](https://holmbrew.no/produkt/best-caramel-munich-ii-1-kg-hel) |
+| Smoked Malt (Whiskey)             | 0.20 kg |        |  10.80 kr |  2.00 kr | [HolmBrew](https://holmbrew.no/produkt/smoked-malt-1-kg) |
+| Chocolate Malt                    | 0.15 kg |        |   6.60 kr |  1.50 kr | [HolmBrew](https://holmbrew.no/produkt/crisp-chocolate-malt-1-kg-hel) |
+| Carafa Spesial II                 | 0.10 kg |        |   4,60 kr |  1.00 kr | [HolmBrew](https://holmbrew.no/produkt/weyermann-carafa-spesial-ii-1-kg-hel) |
 | Styrian Golding Hops              |    30 g |  100 g |  99.00 kr |          | [HolmBrew](https://holmbrew.no/produkt/celeia-100-g) |
-| Chestnut Honey                    |   500 g |        |       TBD |          | Italy or [Smak av Italia](https://smakavitalia.no/Produkt/1/80748508/Kastanjehonning-250g-Gran-Cucina) |
+| Chestnut Honey                    |   500 g |        |  84.00 kr |          | Italy or [Smak av Italia](https://smakavitalia.no/Produkt/1/80748508/Kastanjehonning-250g-Gran-Cucina) |
 | Belgian Dark Candi Sugar          |   300 g |   1 kg | 129.00 kr |          | [HolmBrew](https://holmbrew.no/produkt/candi-sukker-brun-1-kg) |
-| Cardamom pods                     |     2 g |    2 g |  13.90 kr |          | [Meny](https://meny.no/varer/middagstilbehor/krydder/kardemomme/kardemomme-kjerner-7311311004346) |
-| Bitter orange peel                |     5 g |  100 g |  59.00 kr |          | [HolmBrew](https://holmbrew.no/produkt/appelsinskall-bitter-100-g) |
-| Cinnamon stick                    |     4 g |   10 g |  12.90 kr |          | [Meny](https://meny.no/varer/middagstilbehor/krydder/kanel/kanel-hel-7045010001145) |
-| Fermentis BE-256 (Abbaye) Yeast   |   1 bag |        |  69.00 kr |          | [HolmBrew](https://holmbrew.no/produkt/safale-be-256-115g) |
-| **OR** Lallemand Voss Kveik Yeast |   1 bag |        |  69.00 kr |          | [HolmBrew](https://holmbrew.no/produkt/lallemand-voss-kveik-11g) |
-| **HolmBrew Total**                |         |        | **618,50 kr** |         |
+| Bitter orange peel                |    10 g |  100 g |  59.00 kr |          | Sweden or [HolmBrew](https://holmbrew.no/produkt/appelsinskall-bitter-100-g) |
+| Cardamom, grounded                |     8 g |        |   6.90 kr |          | [Meny](https://meny.no/varer/middagstilbehor/krydder/kardemomme/kardemomme-malt-7045010001152) |
+| Cinnamon sticks                   |   3 stk |        |  12.90 kr |          | [Meny](https://meny.no/varer/middagstilbehor/krydder/kanel/kanel-hel-7045010001145) |
+| Fermentis BE-256 (Abbaye) Yeast   |  3 bags |        | 207.00 kr |          | [HolmBrew](https://holmbrew.no/produkt/safale-be-256-115g) |
+| Servomyces                        |   1 bag |        |  99.00 kr |          | [HolmBrew](https://holmbrew.no/produkt/safale-be-256-115g) |
+| **Total**                         |         |        | **974.30 kr** |
+
+### Round 2
+
+| Ingredient                        | Needed  | To buy | Price     | Crush    | URL   |
+|-----------------------------------|---------|--------|-----------|----------|-------|
+| Pilsner Malt                      | 3.50 kg |        | 129,50 kr | 35.00 kr | [HolmBrew](https://holmbrew.no/produkt/best-pilsen-malt-1-kg-hel) |
+| Munich Malt                       | 1.00 kg |        |  38.00 kr | 10.00 kr | [HolmBrew](https://holmbrew.no/produkt/best-munich-malt-1-kg-hel) |
+| Special B                         | 0.50 kg |        |  21.50 kr |  5.00 kr | [HolmBrew](https://holmbrew.no/produkt/special-b-1-kg-hel) | 
+| Caramunich II                     | 0.25 kg |        |   9.50 kr |  2.50 kr | [HolmBrew](https://holmbrew.no/produkt/best-caramel-munich-ii-1-kg-hel) |
+| Smoked Malt (Whiskey)             | 0.20 kg |        |  10.80 kr |  2.00 kr | [HolmBrew](https://holmbrew.no/produkt/smoked-malt-1-kg) |
+| Chocolate Malt                    | 0.15 kg |        |   6.60 kr |  1.50 kr | [HolmBrew](https://holmbrew.no/produkt/crisp-chocolate-malt-1-kg-hel) |
+| Carafa Spesial II                 | 0.10 kg |        |   4,60 kr |  1.00 kr | [HolmBrew](https://holmbrew.no/produkt/weyermann-carafa-spesial-ii-1-kg-hel) |
+| Styrian Golding Hops              |    30 g |        |         - |          | Leftover from Round 1 |
+| Chestnut Honey                    |   500 g |        |         - |          | Italy  |
+| Belgian Dark Candi Sugar          |   300 g |        |         - |          | Leftover from Round 1 |
+| Bitter orange peel                |    10 g |        |         - |          | Sweden |
+| Cardamom, grounded                |     8 g |        |   6.90 kr |          | [Meny](https://meny.no/varer/middagstilbehor/krydder/kardemomme/kardemomme-malt-7045010001152) |
+| Cinnamon sticks                   |   3 stk |        |  12.90 kr |          | [Meny](https://meny.no/varer/middagstilbehor/krydder/kanel/kanel-hel-7045010001145) |
+| Fermentis BE-256 (Abbaye) Yeast   |  3 bags |        | 207.00 kr |          | [HolmBrew](https://holmbrew.no/produkt/safale-be-256-115g) |
+| Servomyces                        |   1 bag |        |         - |          | Leftover from Round 1 |
+| **Total**                         |         |        | **504.30 kr** |
 
 ---
 # 🎮 Beer Brewing Simulator Substitutions
@@ -177,8 +217,8 @@
 | Styrian Golding                   | Styrian Silver                    |    30 g |
 | Chestnut Honey                    | Honey 300g                        |   500 g |
 | Belgian dark candi sugar          | Molasses                          |   300 g |
-| Cardamom pods                     | Coriander spice                   |     2 g |
-| Bitter orange peel                | Orange extract                    |     5 g |
-| Cinnamon stick                    | Cinnamon spice                    |     4 g |
-| Fermentis BE-256 (Abbaye) Yeast   | Trappist Ale yeast                |   1 bag |
+| Cardamom pods                     | Coriander spice                   |     8 g |
+| Bitter orange peel                | Orange extract                    |    10 g |
+| Cinnamon stick                    | Cinnamon spice                    |    24 g |
+| Fermentis BE-256 (Abbaye) Yeast   | Trappist Ale yeast                |   150 g |
 
