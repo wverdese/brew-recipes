@@ -35,7 +35,7 @@
 | **Ingredient**             | **Amount** | **Usage**           |
 |---------------------------|------------|---------------------|
 | Chestnut Honey            | 500 g      | Flame-out or primary |
-| Belgian Dark Candi Sugar  | 200–300 g  | During boil         |
+| Belgian Dark Candi Sugar  | 300 g      | During boil         |
 
 ---
 
@@ -51,9 +51,9 @@
 
 | **Spice**           | **Amount**          | **Form**             | **Usage**            | **Notes**                                |
 |---------------------|---------------------|----------------------|----------------------|-------------------------------------------|
-| Cardamom pods       | 2 g (lightly crushed) | Whole pods          | Last 5 min of boil   | Floral-spice warmth       |
-| Bitter orange peel  | ~5 g                 | Dried                | Last 5 min of boil   | Herbal citrus, richer than sweet orange   |
-| Cinnamon stick      | 4 g (½ stick)        | Whole stick          | Last 10 min of boil  | Warm, festive backbone spice              |
+| Cinnamon stick      | 24 g (3 sticks)        | Crushed sticks          | Last 10 min of boil  | Warm, festive backbone spice              |
+| Cardamom pods       | 8 g | Ground         | Last 5 min of boil   | Floral-spice warmth       |
+| Bitter orange peel  | 10 g                 | Dried                | Last 5 min of boil   | Herbal citrus, richer than sweet orange   |
 
 ---
 
