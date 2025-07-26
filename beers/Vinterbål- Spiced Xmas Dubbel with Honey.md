@@ -178,7 +178,7 @@ Source: https://www.brewersfriend.com/yeast-pitch-rate-and-starter-calculator/#c
 | Cardamom, grounded                |     8 g |        |   6.90 kr |          | [Meny](https://meny.no/varer/middagstilbehor/krydder/kardemomme/kardemomme-malt-7045010001152) |
 | Cinnamon sticks                   |   3 stk |        |  12.90 kr |          | [Meny](https://meny.no/varer/middagstilbehor/krydder/kanel/kanel-hel-7045010001145) |
 | Fermentis BE-256 (Abbaye) Yeast   |  3 bags |        | 207.00 kr |          | [HolmBrew](https://holmbrew.no/produkt/safale-be-256-115g) |
-| Servomyces                        |   1 bag |        |  99.00 kr |          | [HolmBrew](https://holmbrew.no/produkt/safale-be-256-115g) |
+| Servomyces                        |     2 g |  1 bag |  99.00 kr |          | [HolmBrew](https://holmbrew.no/produkt/safale-be-256-115g) |
 | **Total**                         |         |        | **974.30 kr** |
 
 ### Round 2
@@ -199,7 +199,7 @@ Source: https://www.brewersfriend.com/yeast-pitch-rate-and-starter-calculator/#c
 | Cardamom, grounded                |     8 g |        |   6.90 kr |          | [Meny](https://meny.no/varer/middagstilbehor/krydder/kardemomme/kardemomme-malt-7045010001152) |
 | Cinnamon sticks                   |   3 stk |        |  12.90 kr |          | [Meny](https://meny.no/varer/middagstilbehor/krydder/kanel/kanel-hel-7045010001145) |
 | Fermentis BE-256 (Abbaye) Yeast   |  3 bags |        | 207.00 kr |          | [HolmBrew](https://holmbrew.no/produkt/safale-be-256-115g) |
-| Servomyces                        |   1 bag |        |         - |          | Leftover from Round 1 |
+| Servomyces                        |     2 g |        |         - |          | Leftover from Round 1 |
 | **Total**                         |         |        | **504.30 kr** |
 
 ---
