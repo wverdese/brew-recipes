@@ -172,14 +172,12 @@ Source: https://www.brewersfriend.com/yeast-pitch-rate-and-starter-calculator/#c
 | Chocolate Malt                    | 0.15 kg |        |   6.60 kr |  1.50 kr | [HolmBrew](https://holmbrew.no/produkt/crisp-chocolate-malt-1-kg-hel) |
 | Carafa Spesial II                 | 0.10 kg |        |   4,60 kr |  1.00 kr | [HolmBrew](https://holmbrew.no/produkt/weyermann-carafa-spesial-ii-1-kg-hel) |
 | Styrian Golding Hops              |    30 g |  100 g |  99.00 kr |          | [HolmBrew](https://holmbrew.no/produkt/celeia-100-g) |
-| Chestnut Honey                    |   500 g |        |  84.00 kr |          | Italy or [Smak av Italia](https://smakavitalia.no/Produkt/1/80748508/Kastanjehonning-250g-Gran-Cucina) |
+| Chestnut Honey                    |   500 g |        |  84.00 kr |          | Italy |
 | Belgian Dark Candi Sugar          |   300 g |   1 kg | 129.00 kr |          | [HolmBrew](https://holmbrew.no/produkt/candi-sukker-brun-1-kg) |
 | Bitter orange peel                |    10 g |  100 g |  59.00 kr |          | Sweden or [HolmBrew](https://holmbrew.no/produkt/appelsinskall-bitter-100-g) |
-| Cardamom, grounded                |     8 g |        |   6.90 kr |          | [Meny](https://meny.no/varer/middagstilbehor/krydder/kardemomme/kardemomme-malt-7045010001152) |
+| Cardamom, grounded                |     8 g |        |  45.00 kr |          | Frukt og Grønt Grønland |
 | Cinnamon sticks                   |   3 stk |        |  12.90 kr |          | [Meny](https://meny.no/varer/middagstilbehor/krydder/kanel/kanel-hel-7045010001145) |
 | Fermentis BE-256 (Abbaye) Yeast   |  3 bags |        | 207.00 kr |          | [HolmBrew](https://holmbrew.no/produkt/safale-be-256-115g) |
-| Servomyces                        |     2 g |  1 bag |  99.00 kr |          | [HolmBrew](https://holmbrew.no/produkt/safale-be-256-115g) |
-| **Total**                         |         |        | **974.30 kr** |
 
 ### Round 2
 
@@ -193,14 +191,13 @@ Source: https://www.brewersfriend.com/yeast-pitch-rate-and-starter-calculator/#c
 | Chocolate Malt                    | 0.15 kg |        |   6.60 kr |  1.50 kr | [HolmBrew](https://holmbrew.no/produkt/crisp-chocolate-malt-1-kg-hel) |
 | Carafa Spesial II                 | 0.10 kg |        |   4,60 kr |  1.00 kr | [HolmBrew](https://holmbrew.no/produkt/weyermann-carafa-spesial-ii-1-kg-hel) |
 | Styrian Golding Hops              |    30 g |        |         - |          | Leftover from Round 1 |
-| Chestnut Honey                    |   500 g |        |         - |          | Italy  |
+| Chestnut Honey                    |   500 g |        |  84.00 kr |          | Italy  |
 | Belgian Dark Candi Sugar          |   300 g |        |         - |          | Leftover from Round 1 |
 | Bitter orange peel                |    10 g |        |         - |          | Sweden |
-| Cardamom, grounded                |     8 g |        |   6.90 kr |          | [Meny](https://meny.no/varer/middagstilbehor/krydder/kardemomme/kardemomme-malt-7045010001152) |
-| Cinnamon sticks                   |   3 stk |        |  12.90 kr |          | [Meny](https://meny.no/varer/middagstilbehor/krydder/kanel/kanel-hel-7045010001145) |
+| Cardamom, grounded                |     8 g |        |         - |          | Leftover from Round 1 |
+| Cinnamon sticks                   |   3 stk |        |  12.90 kr |          | Sweden |
 | Fermentis BE-256 (Abbaye) Yeast   |  3 bags |        | 207.00 kr |          | [HolmBrew](https://holmbrew.no/produkt/safale-be-256-115g) |
 | Servomyces                        |     2 g |        |         - |          | Leftover from Round 1 |
-| **Total**                         |         |        | **504.30 kr** |
 
 ---
 # 🎮 Beer Brewing Simulator Substitutions
