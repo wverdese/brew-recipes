@@ -1,18 +1,14 @@
-# 🍺 Asakō - Japanese Lager (20L)
-
-A malt-forward reinterpretation of Asahi Super Dry — still pale, crisp, clean, but with **more depth and mouthfeel**.
-
-** Note** Asakō in Japanese means "morning light", while Asahi means "morning sun".
+# 🍺 Asakō – Japanese Lager (20L, 5.5%)
 
 ---
 
 ## Target Stats
 
-* **OG:** ~1.048
-* **FG:** ~1.010–1.012
-* **ABV:** ~4.8–5.0%
+* **OG:** ~1.052
+* **FG:** ~1.011–1.012
+* **ABV:** ~5.4–5.6%
 * **IBU:** ~14–16
-* **EBC:** ~4–5 (pale yellow)
+* **SRM/EBC:** ~4–5 (pale yellow)
 
 ---
 
@@ -20,7 +16,7 @@ A malt-forward reinterpretation of Asahi Super Dry — still pale, crisp, clean,
 
 | Grain                         | Amount  | %   |
 | ----------------------------- | ------- | --- |
-| Bohemian Pilsner Malt         | 3.9 kg  | 84% |
+| Bohemian Pilsner Malt         | 4.3 kg  | 85% |
 | Flaked Rice (Torrified)       | 0.30 kg | 6%  |
 | Munich Light Malt (12–15 EBC) | 0.25 kg | 5%  |
 | Carapils / Dextrine Malt      | 0.20 kg | 4%  |
@@ -31,7 +27,7 @@ A malt-forward reinterpretation of Asahi Super Dry — still pale, crisp, clean,
 
 ### Profile (recommended)
 
-A soft, low-mineral lager profile:
+A soft, clean lager profile:
 
 * **Ca:** 40–60 ppm
 * **Mg:** 5–10 ppm
@@ -40,7 +36,7 @@ A soft, low-mineral lager profile:
 
 ### pH
 
-* Target **mash pH 5.3–5.4**
+* Target **5.3–5.4** for a crisp finish.
 
 ---
 
@@ -48,116 +44,113 @@ A soft, low-mineral lager profile:
 
 ### Mash Schedule
 
-| Minute | Step               | Target Temp (°C) | Action / Notes                          |
-| ------ | ------------------ | ---------------- | --------------------------------------- |
-| 0      | Heat Strike Water  | 52               | Pre-heat before dough-in                |
-| 1      | Dough-in           | 52               | Add grains, stir gently                 |
-| 1–10   | Ramp to 64°C       | 64               | Slow controlled ramp                    |
-| 10–40  | Beta-amylase rest  | 64               | Promotes fermentability but not too dry |
-| 40–70  | Alpha-amylase rest | 68               | Adds dextrins → more body               |
-| 70–80  | Mash-out           | 75               | Improves lautering                      |
-| 80     | End Mash           | —                | Remove malt pipe                        |
+| Minute | Step               | Target Temp (°C) | Action / Notes                 |
+| ------ | ------------------ | ---------------- | ------------------------------ |
+| 0      | Heat Strike Water  | ~52              | Pre-heat, prepare for dough-in |
+| 1      | Dough-in           | 52               | Add grains, gentle stir        |
+| 1–10   | Ramp to 64°C       | 64               | Controlled rise                |
+| 10–40  | Saccharification 1 | 64               | Fermentability rest            |
+| 40–70  | Saccharification 2 | 68               | Builds body & mouthfeel        |
+| 70–80  | Mash-out           | 75               | Improves lautering             |
+| 80     | End Mash           | —                | Remove malt pipe               |
 
 #### Notes:
 
-* Rice is pre-gelatinized (torrified), so no cereal mash required.
-* Keep temp stable for consistent attenuation.
+* Rice is torrified → no cereal mash needed.
+* Temp stability is key for a clean lager profile.
 
 ---
 
 ### Lauter / Sparge
 
-* Sparge with **75°C** water
-* Collect ~26 L pre-boil volume
-* Expected pre-boil gravity: ~1.042
+* Sparge with **75°C** water.
+* Collect **~26 L** pre-boil.
+* Expected pre-boil gravity: **~1.046**.
 
 ---
 
 ### Hop Schedule (~14–16 IBU)
 
-| Minute | Stage       | Temperature | Hop Addition                 | Notes                             |
-| ------ | ----------- | ----------- | ---------------------------- | --------------------------------- |
-| 60     | 60-min boil | 100°C       | 20–25 g Hallertau Mittelfrüh | Bittering only; bland hop profile |
-| 0      | Flameout    | —           | —                            | No late or whirlpool hops         |
+| Minute | Stage          | Temp  | Hop Addition                 | Notes          |
+| ------ | -------------- | ----- | ---------------------------- | -------------- |
+| 60     | 60-minute boil | 100°C | 20–25 g Hallertau Mittelfrüh | Bittering only |
 
 ---
 
 ### Cooling
 
-* Chill to **10°C**
-* Oxygenate well before pitching lager yeast
+* Chill to **10°C**.
+* Oxygenate well before pitching lager yeast.
 
 ---
 
 ### Fermentation
 
 * **Yeast:** W-34/70 or Lallemand Diamond Lager
-* **Pitch at:** 9–10°C
-* **Primary fermentation:** 10–12°C for 10–12 days
-* **Diacetyl rest:** Raise to 15–16°C for 2 days
+* **Pitch temp:** 9–10°C
+* **Primary:** 10–12°C for 10–12 days
+* **D-rest:** 15–16°C for 48 hours
 * **Lagering:** 0–2°C for 2–4 weeks
 
 ---
 
-### Fermentation Timeline (approx.)
+### Fermentation Timeline (Approx.)
 
-| Day   | Stage               | Temp    | SG (approx.) | Notes                    |
-| ----- | ------------------- | ------- | ------------ | ------------------------ |
-| 0     | Pitch yeast         | 10°C    | 1.048        | Strong aeration          |
-| 2–3   | Active fermentation | 10–11°C | 1.030–1.035  | Slow, clean fermentation |
-| 6–7   | Near completion     | 10–11°C | 1.014–1.016  | Prepare for D-rest       |
-| 8–9   | Diacetyl Rest       | 15–16°C | 1.012        | Hold 48 hours            |
-| 10    | Cold crash          | 0–2°C   | 1.010–1.012  | Start lagering           |
-| 10–38 | Lagering            | 0–2°C   | Stable       | 2–4 weeks                |
+| Day   | Stage               | Temp    | SG (approx.) | Notes                      |
+| ----- | ------------------- | ------- | ------------ | -------------------------- |
+| 0     | Pitch yeast         | 10°C    | 1.052        | Aerate well                |
+| 2–3   | Active fermentation | 10–11°C | 1.030–1.035  | Clean, slow lager kinetics |
+| 6–7   | Near completion     | 10–11°C | 1.014–1.016  | Prep for D-rest            |
+| 8–9   | Diacetyl Rest       | 15–16°C | 1.011–1.012  | Hold for 48 hours          |
+| 10    | Cold crash          | 0–2°C   | Stable       | Begin lagering             |
+| 10–38 | Lagering            | 0–2°C   | Stable       | 2–4 weeks                  |
 
 ---
 
 ### Packaging
 
-* **Carbonation:** 2.5–2.7 vol CO₂ (crisp Japanese lager feel)
-* Chill bottles/keg 48 hours before serving for clarity.
+* **Carbonation:** 2.5–2.7 vol CO₂
+* Serve very cold for crispness.
 
 ---
 
 ## 🧊 Conditioning Time – Overview
 
-| Method      | Time            | Notes                          |
-| ----------- | --------------- | ------------------------------ |
-| **Kegged**  | 2–3 weeks total | Lagering + carbonation         |
-| **Bottled** | 3–4 weeks       | Natural carbonation + lagering |
+| Method      | Conditioning Time | Notes                   |
+| ----------- | ----------------- | ----------------------- |
+| **Kegged**  | 2–3 weeks total   | Force carb + lager      |
+| **Bottled** | 3–4 weeks         | Natural carb + lagering |
 
 ---
 
 ## Final Notes
 
-* Munich Light + Carapils give the enhanced depth and body you asked for while keeping the appearance pale.
-* Rice keeps the beer crisp and recognizably “Japanese,” but at a lower percentage than Asahi so it doesn’t get too thin.
-* Very low hopping ensures malt character dominates.
+* This beer retains the clean, bright character of a Japanese lager while adding a gentle malt depth thanks to Munich Light and a higher finishing gravity.
+* Rice maintains authenticity and crispness without thinning the body.
+* Very restrained hopping gives the malt room to shine.
 
 ---
 
 # 🛒 Shopping List
 
-| Ingredient                     | Amount  | Notes            | URL                                                                                                              |
-| ------------------------------ | ------- | ---------------- | ---------------------------------------------------------------------------------------------------------------- |
-| Bohemian Pilsner Malt          | 3.9 kg  | Base malt        | [https://www.olbrygging.no](https://www.olbrygging.no)                                                           |
-| Flaked Rice (Torrified)        | 0.30 kg | Adjunct          | [https://holmbrew.no/produkt/flaket-ris-torrified-1-kg/](https://holmbrew.no/produkt/flaket-ris-torrified-1-kg/) |
-| Munich Light Malt 12–15 EBC    | 0.25 kg | Malt depth       | [https://www.olbrygging.no](https://www.olbrygging.no)                                                           |
-| Carapils / Dextrine Malt       | 0.20 kg | Foam/body        | [https://www.olbrygging.no](https://www.olbrygging.no)                                                           |
-| Hallertau Mittelfrüh hops      | 20–25 g | Bittering        | Any of the 3 stores                                                                                              |
-| Lager yeast (34/70 or Diamond) | 1 pkg   | Clean lager ferm | All stores                                                                                                       |
-
-*(URLs shown generically when exact product pages vary.)*
+| Ingredient                     | Needed  | Notes             | URL                                                                                                              |
+| ------------------------------ | ------- | ----------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Bohemian Pilsner Malt          | 4.3 kg  | Base malt         | [https://www.olbrygging.no](https://www.olbrygging.no)                                                           |
+| Flaked Rice (Torrified)        | 0.30 kg | Adjunct           | [https://holmbrew.no/produkt/flaket-ris-torrified-1-kg/](https://holmbrew.no/produkt/flaket-ris-torrified-1-kg/) |
+| Munich Light (12–15 EBC)       | 0.25 kg | Malt depth        | [https://www.olbrygging.no](https://www.olbrygging.no)                                                           |
+| Carapils / Dextrine Malt       | 0.20 kg | Body, foam        | [https://www.olbrygging.no](https://www.olbrygging.no)                                                           |
+| Hallertau Mittelfrüh (T90)     | 20–25 g | Bittering         | Any store                                                                                                        |
+| W-34/70 or Diamond Lager yeast | 1 pack  | Clean lager yeast | All major stores                                                                                                 |
 
 ---
 
 # 🎮 Beer Brewing Simulator Substitutions
 
-| Real Ingredient         | Game Substitute                              | Notes                                             |
-| ----------------------- | -------------------------------------------- | ------------------------------------------------- |
-| Bohemian Pilsner Malt   | German Pale Ale                              | Closest light base malt                           |
-| Flaked Rice (Torrified) | Rice Extract **or** reduce base malt + Sugar | Game often lacks raw rice; sugar ≈ fermentability |
-| Munich Light Malt       | Munich Malt                                  | Perfect match in-game                             |
-| Carapils                | Ultra Pale Crystal                           | Same functional role                              |
-| Hallertau Mittelfrüh    | Hallerdauer Mittelfruh                       | Direct mapping                                    |
-| Lager Yeast (W-34/70)   | Easy Grain                                   | Cleanest neutral yeast                            |
+| Real Ingredient         | Game Substitute           | Notes                        |
+| ----------------------- | ------------------------- | ---------------------------- |
+| Bohemian Pilsner Malt   | German Pale Ale           | Lightest clean base malt     |
+| Flaked Rice (Torrified) | Rice Extract **or** Sugar | Use if adjunct not available |
+| Munich Light Malt       | Munich Malt               | Same malt family             |
+| Carapils                | Ultra Pale Crystal        | Same functional role         |
+| Hallertau Mittelfrüh    | Hallerdauer Mittelfruh    | Direct mapping               |
+| Lager Yeast (W-34/70)   | Easy Grain                | Clean, neutral yeast         |me!
