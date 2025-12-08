@@ -1,5 +1,9 @@
 # 🍺 Asakō – Japanese Lager (20L, 5.5%)
 
+A malt-forward reinterpretation of Asahi Super Dry — still pale, crisp, clean, but with **more depth and mouthfeel**.
+
+** Note** Asakō in Japanese means "morning light", while Asahi means "morning sun".
+
 ---
 
 ## Target Stats
