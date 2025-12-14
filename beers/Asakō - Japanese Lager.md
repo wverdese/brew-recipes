@@ -152,12 +152,14 @@ A soft, clean lager profile:
 
 # 🎮 Beer Brewing Simulator Substitutions
 
-| Real Ingredient           | Game Substitute           | Notes                                         |
-| ------------------------- | ------------------------- | --------------------------------------------- |
-| BEST Pilsen Malt          | German Pilsner            | Best match for flavor + efficiency            |
-| BEST Heidelberg Pils Malt | Extra Pale Maris Lutra    | Closest match (SRM, efficiency, protein)      |
-| Flaked Rice (Torrified)   | Flaked rice               | Direct mapping                                |
-| BEST Munich Malt          | Munich                    | Correct malt family                           |
-| BEST Caramel Pils         | Ultra Pale Crystal        | Closest functional body/foam                  |
-| Hallertau Mittelfrüh      | Hallerdauer Mittelfruh    | Direct mapping                                |
-| Lager Yeast (W-34/70)     | Kladsko Lager             | Closest match                                 |
+| Real Ingredient           | Needed¹ | Game Substitute           | Notes                                         |
+| ------------------------- | ------- | ------------------------- | --------------------------------------------- |
+| BEST Pilsen Malt          | 2.00 kg | German Pilsner            | Best match for flavor + efficiency            |
+| BEST Heidelberg Pils Malt | 1.86 kg | Extra Pale Maris Lutra    | Closest match (SRM, efficiency, protein)      |
+| Flaked Rice (Torrified)   |   300 g | Flaked rice               | Direct mapping                                |
+| BEST Munich Malt          |   170 g | Munich                    | Correct malt family                           |
+| BEST Caramel Pils         |   100 g | Ultra Pale Crystal        | Closest functional body/foam                  |
+| Hallertau Mittelfrüh      |    25 g | Hallerdauer Mittelfruh    | Direct mapping                                |
+| Lager Yeast (W-34/70)     |  1 pack | Kladsko Lager             | Closest match                                 |
+
+¹ Because the simulator does not mimic real mash/brewhouse losses, we need to lower our grain bill for a 21L brew.
