@@ -61,7 +61,6 @@ A soft, clean lager profile:
 
 #### Notes:
 
-* Torrified rice requires no cereal mash.
 * Depth comes from the Munich + Caramel Pils, but kept subtle for crispness.
 
 ---
