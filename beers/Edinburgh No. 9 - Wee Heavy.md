@@ -1,5 +1,7 @@
 # 🍺 Edinburgh No. 9 – Wee Heavy (20L, Wyeast 1728)
 
+<img width="1290" src="https://github.com/user-attachments/assets/ed14878d-f0ba-4f00-a2ec-98494b524dd9" />
+
 ## Target Stats
 
 * **OG:** ~1.085
@@ -84,6 +86,7 @@ Meanwhile keep the first-runnings pot boiling HARD.**
 | 60     | Bittering                 | 100°C | East Kent Goldings         | 35 g        | ~20 IBU                                                  |
 | 20     | **Add caramelized syrup** | 100°C | **Reduced first runnings** | ~300–500 mL | **Add syrup when thick and dark. Stir carefully.**       |
 | 10     | Late Hop (optional)       | 100°C | Fuggle                     | 10 g        | ~2 IBU                                                   |
+| 10     | Clarification (optional)  | 100°C | Protafloc Tablet           | ~2 g        | Improves clarity                                         |
 
 #### Notes on Caramelization
 
@@ -147,11 +150,11 @@ Meanwhile keep the first-runnings pot boiling HARD.**
 | Ingredient                                       | Needed    | Notes                                   | URL                                                                                        |
 | ------------------------------------------------ | --------- | --------------------------------------- | ------------------------------------------------------------------------------------------ |
 | **Thomas Fawcett Maris Otter Malt**              | 7.0 kg    | Base malt for Wee Heavy                 | [HolmBrew](https://holmbrew.no/produkt/crisp-maris-otter-1-kg-hel)                         |
-| **Thomas Fawcett Crystal Malt 150–175 EBC**      | 250 g     | Medium caramel depth                    | [HolmBrew](https://holmbrew.no/produkt/crystal-malt-thomas-fawcett-150-175-ebc-1-kg)       |
-| **Thomas Fawcett Dark Crystal Malt 250–300 EBC** | 150 g     | Dark caramel & colour (sub for 300 EBC) | [HolmBrew](https://holmbrew.no/produkt/thomas-fawcett-dark-crystal-malt-250-300-ebc-25-kg) |
-| **Roasted Barley**                               | 60 g      | Colour adjustment                       | [HolmBrew](https://holmbrew.no/produkt/crisp-roasted-barley-1300-ebc-1-kg)                 |
-| **East Kent Goldings (T90)**                     | 35 g      | Bittering hop                           | [HolmBrew](https://holmbrew.no/produkt/east-kent-golding-t90-100g)                         |
-| **Fuggle (optional)**                            | 10 g      | Light late hop                          | [HolmBrew](https://holmbrew.no/produkt/fuggle-t90-100g)                                    |
+| **Thomas Fawcett Crystal Malt 150–175 EBC**      | 250 g     | Medium caramel depth                    | [HolmBrew](https://holmbrew.no/produkt/thomas-fawcett-crystal-malt-150-175-ebc-1-kg/)      |
+| **Thomas Fawcett Dark Crystal Malt 250–300 EBC** | 150 g     | Dark caramel & colour (sub for 300 EBC) | [HolmBrew](https://holmbrew.no/produkt/thomas-fawcett-dark-crystal-malt-250-300-ebc-1-kg/) |
+| **BEST Roasted Barley**                          | 60 g      | Colour adjustment                       | [HolmBrew](https://holmbrew.no/produkt/best-roasted-barley-1-kg-hel/)                      |
+| **Goldings (T90)**                               | 35 g      | Bittering hop                           | [HolmBrew](https://holmbrew.no/produkt/goldings-100-g/)                                    |
+| **Fuggle (optional)**                            | 10 g      | Light late hop                          | [HolmBrew](https://holmbrew.no/produkt/fuggle-100-g/)                                      |
 | **Wyeast 1728 Scottish Ale**                     | 3 packs   | Direct pitch, no starter                | —                                                                                          |
 
 ---
@@ -160,11 +163,11 @@ Meanwhile keep the first-runnings pot boiling HARD.**
 
 | Real Ingredient    | Game Substitute        | Notes                           |
 | ------------------ | ---------------------- | ------------------------------- |
-| Maris Otter Malt   | British Pale           | Closest colour & flavour        |
-| Crystal 150 EBC    | Munich                 | Closest colour & flavour        |
-| Crystal 300 EBC    | Dark Munich            | Closest colour & flavour        |
-| Roasted Barley     | Amber                  | Closest colour                  |
-| East Kent Goldings | Golding                | Closest flavour                 |
+| Maris Otter Malt   | British Pale (Base Malt) | Closest colour & flavour       |
+| Crystal 150 EBC    | Brown (Kilned Malt)    | Closest colour & flavour         |
+| Crystal 300 EBC    | Belgian Caramel (Crystal Malt) | Closest colour & flavour |
+| Roasted Barley     | True Sable             | Closest colour                  |
+| Goldings           | Golding                | Listed in mapping               |
 | Fuggle             | Ruggle                 | Listed in mapping               |
 | Caramelization     | Molasses               | 90g at 20 min                   |
 | Wyeast 1728        | Albion Ale II          | No need for 3 packs in game     |
