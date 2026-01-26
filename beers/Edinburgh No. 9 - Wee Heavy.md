@@ -140,11 +140,10 @@ Expected FG: **~1.018**
 
 | Real Ingredient    | Game Substitute        | Notes                           |
 | ------------------ | ---------------------- | ------------------------------- |
-| Maris Otter Malt   | English Pale Malt      | Closest colour & flavour        |
-| Crystal 150 EBC    | Medium Crystal         |                                 |
-| Crystal 300 EBC    | Dark Crystal           |                                 |
-| Roasted Barley     | Roasted Barley         | Same                            |
-| East Kent Goldings | Kent Golding           | Mapped in hop file              |
-| Fuggle             | Ruggle (Fuggle)        | Listed in simulator hop mapping |
-| Wyeast 1728        | Easy Grain (clean ale) | No liquid yeasts in game        |
-| Priming sugar      | Corn Sugar             |                                 |
+| Maris Otter Malt   | British Pale           | Closest colour & flavour        |
+| Crystal 150 EBC    | Munich                 | Closest colour & flavour        |
+| Crystal 300 EBC    | Dark Munich            | Closest colour & flavour        |
+| Roasted Barley     | Amber                  | Closest colour                  |
+| East Kent Goldings | Golding                | Closest flavour                 |
+| Fuggle             | Ruggle                 | Listed in mapping               |
+| Wyeast 1728        | Albion Ale II          | No need for 3 packs in game     |
