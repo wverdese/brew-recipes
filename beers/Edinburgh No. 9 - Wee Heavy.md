@@ -78,7 +78,7 @@ Collect 2–3 L of first runnings, boil separately to a syrup, and add back to t
 
 ### Cooling
 
-* Chill to **16–17°C** before pitching.
+* Chill to room temperature before pitching.
 * Aerate thoroughly — this wort is high gravity.
 
 ---
@@ -86,8 +86,8 @@ Collect 2–3 L of first runnings, boil separately to a syrup, and add back to t
 ### Fermentation
 
 * **Wyeast 1728 Scottish Ale – 3 packs (direct pitch, no starter)**
-* Pitch at **16–17°C** for an ultra-clean Scottish profile.
-* After day 2–3, allow temp to rise to **18–19°C**.
+* Pitch at **16–17°C** for an ultra-clean Scottish profile. (Note: 20°C is still fine, it will just produce more esters)
+* After day 2–3, allow temp to rise to **18–19°C**. (Note: if fermenting at 20°C, leave it as it is)
 * Optional cleanup: **19–20°C** at end of fermentation.
 
 ---
@@ -107,25 +107,10 @@ Expected FG: **~1.018**
 
 ---
 
-### Dry-Hopping Schedule
-
-Wee Heavy is **not dry-hopped**.
-
----
-
 ### Packaging
 
 * Carbonation: **1.8–2.0 vol CO₂** (low)
-* Bottle condition 3–4 weeks
-* Keg condition 3–6 weeks (improves significantly over time)
-
----
-
-## 🧊 Conditioning Time – Overview
-
-| Method      | Conditioning Time   | Notes                            |
-| ----------- | ------------------- | -------------------------------- |
-| **Bottled** | 4–8 weeks room temp | Classic maturation for Wee Heavy |
+* Bottle condition 3–4 weeks room temp
 
 ---
 
