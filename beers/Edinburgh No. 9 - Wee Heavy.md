@@ -166,4 +166,5 @@ Meanwhile keep the first-runnings pot boiling HARD.**
 | Roasted Barley     | Amber                  | Closest colour                  |
 | East Kent Goldings | Golding                | Closest flavour                 |
 | Fuggle             | Ruggle                 | Listed in mapping               |
+| Caramelization     | Molasses               | 90g at 20 min                   |
 | Wyeast 1728        | Albion Ale II          | No need for 3 packs in game     |
