@@ -142,6 +142,8 @@ Add:
 * Add **150–200 ml active ginger bug**
 * Ferment at **20–22°C**
 
+Note: if the ginger bug is slow, you can recover with 2-3g of reactivated dry yeast
+
 ---
 
 # ⏱️ Fermentation Timeline
@@ -169,62 +171,130 @@ Target FG: **~1.008–1.012**
 
 ---
 
-# 🌶️ Post-Fermentation Ginger Boost (Tincture)
+# 🍾 Bottling & Conditioning Timeline
 
-## When:
+## 📅 Day 0 — Bottling Day
 
-👉 After fermentation is complete (Day 7–10)
+### Preparation
 
-## How:
+* Ensure FG is stable for ≥3 days ✅
+* Rack and cold crash (min 48h at 0–4°C)
 
-1. Add **25 ml tincture**
-2. Stir gently
-3. Taste
+### Add to Bottling Bucket
 
-Then adjust:
+* **Maltodextrin**: 200 g (dissolved in ~300 ml hot water, cooled)
+* **Stevia**: 3–5 ml (adjusted via test)
+* **Ginger tincture**: ~40 ml
+* **Priming sugar**: 25 g (dissolved in ~100 ml boiling water, cooled)
 
-* 25–40 ml → balanced
-* 40–60 ml → strong
-* 60+ ml → aggressive 🔥
+👉 Mix gently but thoroughly (avoid oxygen)
 
----
+Note: add 0.5g or reactivated dry yeast only if the fermentation was staggering in its final phase 
 
-# 🍾 Bottling
+### Bottling
 
-Add priming sugar:
+* Fill bottles (330 ml or 500 ml)
+* Leave ~2–3 cm headspace
+* Cap immediately (crown cap or swing-top)
 
-* **5–6 g/L → 25–30 g total**
+### Optional (recommended)
 
-Bottle in strong bottles.
-
----
-
-# 🫧 Carbonation
-
-* 2–4 days at 20–22°C
-* Then refrigerate
+* Fill **1 PET plastic bottle** as pressure indicator
 
 ---
 
-# 🍋 Back-Sweetening (Serving Stage)
+## 🌡️ Day 0–7 — Warm Conditioning Phase
 
-## Per glass (recommended)
+* Store bottles at **20–22°C**
+* Do NOT move to cellar yet
 
-* 5–15 ml SodaStream Lemonade syrup per 250 ml
-* Stir gently
+### What happens:
+
+* Yeast ferments priming sugar
+* CO₂ builds pressure inside bottles
+
+### Daily (optional check with PET bottle):
+
+* Soft → not ready
+* Firm → carbonating
+* Very firm → close to ready
 
 ---
 
-## Flavor Effect
+## ⏱️ Day 5–7 — First Check
 
-* Adds sweetness + acidity
-* Brightens ginger
-* Balances spice
+1. Take **1 bottle**
+2. Chill in fridge for **24 hours**
+3. Open and evaluate:
+
+### If:
+
+* ✅ Good “pssst” + foam → carbonation successful
+* ⚠️ Weak carbonation → continue conditioning
 
 ---
 
-# 🧊 Conditioning & Storage
+## ⏱️ Day 7–10 — Full Carbonation Window
 
-* Drink after ~1 week
-* Best within 3–4 weeks
-* Store cold after carbonation
+* Most bottles will reach full carbonation in this period
+
+👉 For high ABV (~10%):
+
+* Expect slower carbonation than normal beer
+
+---
+
+## 🥶 After Carbonation is Confirmed
+
+👉 Move all bottles to:
+
+* **Cellar (~17°C)** OR
+* **Fridge (preferred for stability)**
+
+### Why:
+
+* Slows yeast activity
+* Stabilizes carbonation
+* Improves flavor integration
+
+---
+
+## 🧊 Post-Conditioning (Optional but Recommended)
+
+* Leave bottles **3–5 more days** (cold or cellar)
+
+👉 This improves:
+
+* CO₂ integration
+* Mouthfeel
+* Flavor balance
+
+---
+
+## ⚠️ Important Safety Notes
+
+* Do NOT move bottles to cold storage before carbonation is complete
+* Do NOT add extra sugar beyond priming amount
+* High ABV = slower yeast → patience is key
+
+---
+
+## ✅ Summary Timeline
+
+| Day       | Action                                       |
+| --------- | -------------------------------------------- |
+| 0         | Bottle + start conditioning at 22°C          |
+| 5–7       | First carbonation check                      |
+| 7–10      | Full carbonation expected                    |
+| 7–10+     | Move to cellar (after confirmed carbonation) |
+| +3–5 days | Flavor stabilization                         |
+
+---
+
+## 🎯 Expected Final Result
+
+* Carbonation: Medium-high (2.3–2.7 vol CO₂)
+* Sweetness: Stable (stevia-based)
+* Body: Medium (maltodextrin)
+* Ginger: Strong, fresh (tincture)
+* Alcohol: Smooth but noticeable
