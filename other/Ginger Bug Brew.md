@@ -1,11 +1,13 @@
-# 🍺 Alcoholic Ginger Beer w/ Ginger Bug (5L, 4–5% ABV)
+# 🍺 Alcoholic Ginger Beer w/ Ginger Bug (5L, ~10% ABV Final)
 
-## Target
+---
 
-* Batch Size: 5 L
+## 🎯 Target
+
+* Batch Size: 5 L (→ ~4.5 L post-fermentation)
 * OG: ~1.070
-* FG: ~1.008–1.012
-* ABV: ~4.8–5.2%
+* FG: ~0.993
+* ABV: ~9–10%
 * Carbonation: High
 * Sweetness: Added post-fermentation
 
@@ -15,41 +17,24 @@
 
 ## Goal
 
-* Start: 250 ml
+* Build ~250 ml bug
 * Use: 150–200 ml (strained)
 
-### Day 1
+### Feeding Schedule
 
-* 250 ml water (20–25°C)
-* 15 g grated ginger
-* 15 g rørsukker
+| Day | Ginger | Sugar |
+| --- | ------ | ----- |
+| 1   | 15 g   | 15 g  |
+| 2   | 8 g    | 8 g   |
+| 3   | 8 g    | 8 g   |
+| 4   | 8 g    | 8 g   |
+| 5   | 5 g    | 5 g   |
 
-### Day 2
-
-* 8 g ginger
-* 8 g rørsukker
-
-### Day 3
-
-* 8 g ginger
-* 8 g rørsukker
-
-### Day 4
-
-* 8 g ginger
-* 8 g rørsukker
-
-### Day 5
-
-* 5 g ginger
-* 5 g rørsukker
-
-### Brew Day Prep (same day, morning)
+### Brew Day (morning)
 
 * 5–8 g ginger
-* 10 g rørsukker
-
-→ Wait 4–8 hours before pitching
+* 10 g sugar
+  → Wait **4–8 hours before pitching**
 
 ---
 
@@ -57,71 +42,62 @@
 
 ## Ingredients
 
-* 75 g fresh ginger (finely grated)
+* 75 g grated ginger
 * 200 ml vodka (40%)
 
 ## Process
 
-1. Add ginger to jar
-2. Cover with vodka
-3. Shake well
+1. Combine in jar
+2. Shake daily
+3. Strain before use
 
-## Extraction Time (IMPORTANT)
+## Extraction Time
 
-* Minimum: **24 hours (usable)**
-* Recommended: **2–5 days (ideal balance)**
-* Extended: **up to ~7–10 days (stronger, more intense)**
+* Minimum: 24h
+* Ideal: 2–5 days
+* Max: ~10 days
 
-👉 You can start this **anytime before fermentation finishes**
-👉 It only needs to be ready by **Day 7–10 (post-fermentation stage)**
+Note: if too old or too small, it can be complemented with a ginger solution.
 
-## Before use
-
-* Strain through cheesecloth or coffee filter
-* Keep only the liquid (tincture)
+## Ginger Solution (backup plan)
+* 300 ml water @ 85–90°C
+* Add ginger
+* Steep 25 min (covered)
+* Strain
 
 ---
 
-# 🛒 Ingredients (Brew Day)
+# 🛒 Brew Day Ingredients
 
 * Rørsukker: 400 g
 * Brun farin: 600 g
 * Fresh ginger: 300 g
 * Lime: 1 (zest + juice)
-* Salt: 0.5–1 g
 * Water: ~6 L
 * Ginger bug: 150–200 ml
-
-### Post-fermentation
-
-* Ginger tincture (prepared above)
-* SodaStream Lemonade No Sugar syrup
 
 ---
 
 # 🔥 Brew Day
 
-## 1. Boil
+## 1. Boil (30 min)
 
 Add:
 
 * 5.5–6 L water
 * 200 g ginger
-* 400 g rørsukker
-* 600 g brun farin
+* All sugar
 
-Simmer **30 minutes**
+Simmer 30 min
 
 ---
 
-## 2. Flameout / Steep
+## 2. Flameout / Steep (20 min)
 
 Add:
 
 * 100 g ginger
 * Lime zest
-
-Steep **20 minutes**
 
 ---
 
@@ -132,169 +108,165 @@ Cool to **20–22°C**
 Add:
 
 * Lime juice
-* Salt
 
 ---
 
 ## 4. Fermentation
 
 * Transfer to fermenter
-* Add **150–200 ml active ginger bug**
+* Pitch ginger bug (150–200 ml)
 * Ferment at **20–22°C**
 
-Note: if the ginger bug is slow, you can recover with 2-3g of reactivated dry yeast
+👉 If slow start: add **2–3 g rehydrated dry yeast**
 
 ---
 
 # ⏱️ Fermentation Timeline
 
-| Day  | Stage               |
-| ---- | ------------------- |
-| 0    | Pitch               |
-| 1–2  | Lag/start           |
-| 2–4  | Active fermentation |
-| 5–7  | Slowing down        |
-| 7–10 | Final attenuation   |
+| Day  | Stage             |
+| ---- | ----------------- |
+| 0    | Pitch             |
+| 1–2  | Lag               |
+| 2–4  | Active            |
+| 5–7  | Slowing           |
+| 7–10 | Final attenuation |
 
 ---
 
 # ✅ Ferment to Completion (CRITICAL)
 
-Do NOT bottle early.
-
-You want:
-
-* No bubbling
-* Gravity stable for 2 days
-
-Target FG: **~1.008–1.012**
+* Gravity stable for **≥2 days**
+* Target FG: ~0.993
 
 ---
 
-# 🍾 Bottling & Conditioning Timeline
+# 🧊 Cold Crash
 
-## 📅 Day 0 — Bottling Day
-
-### Preparation
-
-* Ensure FG is stable for ≥3 days ✅
-* Rack and cold crash (min 48h at 0–4°C)
-
-### Add to Bottling Bucket
-
-* **Maltodextrin**: 200 g (dissolved in ~300 ml hot water, cooled)
-* **Stevia**: 3–5 ml (adjusted via test)
-* **Ginger tincture**: ~40 ml
-* **Priming sugar**: 25 g (dissolved in ~100 ml boiling water, cooled)
-
-👉 Mix gently but thoroughly (avoid oxygen)
-
-Note: add 0.5g or reactivated dry yeast only if the fermentation was staggering in its final phase 
-
-### Bottling
-
-* Fill bottles (330 ml or 500 ml)
-* Leave ~2–3 cm headspace
-* Cap immediately (crown cap or swing-top)
-
-### Optional (recommended)
-
-* Fill **1 PET plastic bottle** as pressure indicator
+* Rack to secondary
+* Cold crash at **0–4°C for 48h+**
+* Can hold up to **5 days**
 
 ---
 
-## 🌡️ Day 0–7 — Warm Conditioning Phase
+# 🍾 Bottling Preparation (4.5L Batch)
 
-* Store bottles at **20–22°C**
-* Do NOT move to cellar yet
+## Additions
 
-### What happens:
+* Maltodextrin: **315 g**
+* Erythritol: **375 g**
+* Fresh ginger: **80–100 g**
+* Ginger tincture/solution: **60 ml**
+* Salt: **~1 g**
+* Water: **~700 ml total**
 
-* Yeast ferments priming sugar
-* CO₂ builds pressure inside bottles
+---
 
-### Daily (optional check with PET bottle):
+### 2. Sweetener Solution
+
+* 400 ml water @ **50–60°C**
+* Add erythritol → dissolve
+* Add maltodextrin gradually
+* Stir until smooth
+
+---
+
+### 3. Combine
+
+* Mix sweetener solution with tincture and/or solution
+* Add salt
+* Cool to room temp
+
+---
+
+## Add to Beer
+
+* Pour into bottling bucket
+* Stir gently
+
+---
+
+## 🧪 Taste Check
+
+* Adjust sweetness if needed
+* Remember:
+
+  * Carbonation ↑ sharpness
+  * Cold ↓ sweetness
+
+---
+
+# 🫧 Carbonation
+
+## Bulk Priming (recommended)
+
+* **22–23 g brown sugar total**
+
+Method:
+
+1. Dissolve in ~100 ml boiling water
+2. Cool
+3. Add to batch
+
+---
+
+## Alternative (per bottle)
+
+* 330 ml → 2.5–2.7 g sugar (~½ tsp)
+
+---
+
+# 🍾 Bottling
+
+* Fill bottles (330 ml)
+* Leave 2–3 cm headspace
+* Cap immediately
+
+👉 Optional: 1 PET bottle for pressure tracking
+
+---
+
+# 🌡️ Conditioning
+
+* Store at **20–22°C**
+* Duration: **7–10 days**
+
+---
+
+## Monitoring
+
+PET bottle:
 
 * Soft → not ready
 * Firm → carbonating
-* Very firm → close to ready
+* Hard → ready
 
 ---
 
-## ⏱️ Day 5–7 — First Check
+## First Check (Day 7)
 
-1. Take **1 bottle**
-2. Chill in fridge for **24 hours**
-3. Open and evaluate:
+1. Chill bottle 24h
+2. Open
 
-### If:
-
-* ✅ Good “pssst” + foam → carbonation successful
-* ⚠️ Weak carbonation → continue conditioning
+* Good carbonation → move to cellar/fridge
+* Weak → wait 2–3 days
 
 ---
 
-## ⏱️ Day 7–10 — Full Carbonation Window
+# 🥶 Storage
 
-* Most bottles will reach full carbonation in this period
+* Move to:
 
-👉 For high ABV (~10%):
-
-* Expect slower carbonation than normal beer
-
----
-
-## 🥶 After Carbonation is Confirmed
-
-👉 Move all bottles to:
-
-* **Cellar (~17°C)** OR
-* **Fridge (preferred for stability)**
-
-### Why:
-
-* Slows yeast activity
-* Stabilizes carbonation
-* Improves flavor integration
+  * Cellar (~17°C) OR fridge
+* Wait **3–5 days** for integration
 
 ---
 
-## 🧊 Post-Conditioning (Optional but Recommended)
+# 🎯 Final Result
 
-* Leave bottles **3–5 more days** (cold or cellar)
-
-👉 This improves:
-
-* CO₂ integration
-* Mouthfeel
-* Flavor balance
+* Body: full (maltodextrin)
+* Sweetness: high (erythritol)
+* Ginger: strong (tea + tincture)
+* Carbonation: high
+* Alcohol: smooth but noticeable (~10%)
 
 ---
-
-## ⚠️ Important Safety Notes
-
-* Do NOT move bottles to cold storage before carbonation is complete
-* Do NOT add extra sugar beyond priming amount
-* High ABV = slower yeast → patience is key
-
----
-
-## ✅ Summary Timeline
-
-| Day       | Action                                       |
-| --------- | -------------------------------------------- |
-| 0         | Bottle + start conditioning at 22°C          |
-| 5–7       | First carbonation check                      |
-| 7–10      | Full carbonation expected                    |
-| 7–10+     | Move to cellar (after confirmed carbonation) |
-| +3–5 days | Flavor stabilization                         |
-
----
-
-## 🎯 Expected Final Result
-
-* Carbonation: Medium-high (2.3–2.7 vol CO₂)
-* Sweetness: Stable (stevia-based)
-* Body: Medium (maltodextrin)
-* Ginger: Strong, fresh (tincture)
-* Alcohol: Smooth but noticeable
