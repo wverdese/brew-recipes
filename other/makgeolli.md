@@ -43,7 +43,7 @@ Choose one of the following:
 
 #### Cooking:
 
-* Steam rice in batches (~40 min per batch).
+* Steam rice in 2 batches (~40 min per batch), lying the rice on cheesecloth in the steamer basket.
 * Cool steamed rice thoroughly at room temperature (~30 min).
 
 #### Mixing:
