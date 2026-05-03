@@ -105,3 +105,6 @@ Choose one of the following:
 * **Stronger ABV Variant:** Increase nuruk to 175g for fuller fermentation and slightly higher alcohol content.
 * **Creamier Variant:** Use exclusively glutinous rice (500g) in the Deotsul step.
 * **Lighter, More Refreshing Variant:** Increase water slightly (up to 4.5L total) for a lighter, smoother finish.
+
+## References
+- https://www.youtube.com/watch?v=GFKuX4wfjAU
