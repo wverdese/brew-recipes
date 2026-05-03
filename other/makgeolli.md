@@ -17,7 +17,7 @@
 | -------------- | ------ |
 | Glutinous Rice | 1 kg   |
 | Nuruk          | 150 g  |
-| Water          | 4 L    |
+| Water          | 3.5 L    |
 
 ### Deotsul (Rice Addition, Day 3–4)
 
@@ -52,7 +52,7 @@ Choose one of the following:
 * Mix nuruk (150 g) with half the water (~2 L), soak for 30 min.
 * Add cooled rice to fermenter.
 * Add nuruk-water mixture; stir gently until absorbed.
-* Add remaining water (~2 L); stir gently until evenly mixed and submerged.
+* Add remaining water (~1.5L L); stir gently until evenly mixed and submerged.
 * Seal fermenter, start fermentation at **18–20°C**.
 
 ### Day 1–3: Active Fermentation
@@ -96,7 +96,7 @@ Choose one of the following:
 * **Body & Texture:** Using Deotsul significantly improves mouthfeel and complexity.
 * **Fermentation Temperature:** Cooler fermentation ensures slower, controlled fermentation, preserving sweetness and complexity naturally.
 
-**Chosen Combo (4L water, 150g nuruk, 500g Deotsul rice):**
+**Chosen Combo (3.5LL water, 150g nuruk, 500g Deotsul rice):**
 
 * High sweetness, medium body, smooth and drinkable, moderate complexity and rich rice flavor.
 
@@ -106,7 +106,7 @@ Choose one of the following:
 
 * **Stronger ABV Variant:** Increase nuruk to 175g for fuller fermentation and slightly higher alcohol content.
 * **Creamier Variant:** Use exclusively glutinous rice (500g) in the Deotsul step.
-* **Lighter, More Refreshing Variant:** Increase water slightly (up to 4.5L total) for a lighter, smoother finish.
+* **Lighter, More Refreshing Variant:** Increase water slightly (up to 4L total) for a lighter, smoother finish.
 
 ## References
 - https://www.youtube.com/watch?v=GFKuX4wfjAU
