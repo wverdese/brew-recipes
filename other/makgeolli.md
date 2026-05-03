@@ -60,18 +60,20 @@ Choose one of the following:
 * Stir gently once daily with a sanitized spoon.
 * Maintain temperature around 18–20°C.
 
-### Day 3–4: Deotsul Rice Addition
+### Day 5-6: Primary Straining & Deotsul Rice Addition
 
+* Strain makgeolli through a fine mesh bag or cheesecloth to remove spent rice and nuruk residue.
+* Transfer the strained liquid into a sanitized fermenter.
 * Steam the chosen rice (see table above), let cool to room temperature.
 * Mix gently into active fermenting makgeolli.
 * Reseal fermenter and continue fermentation at **18–20°C**.
 
-### Day 5–10: Finishing Fermentation
+### Finishing Fermentation
 
 * Monitor SG daily (target SG: ~1.030–1.035).
 * Once desired sweetness is reached, fermentation should be halted by immediate straining and refrigeration.
 
-### Straining & Bottling
+### Day 10-12 Straining & Bottling
 
 * Strain makgeolli through a fine mesh bag or cheesecloth.
 * Bottle in airtight bottles (e.g., soda bottles) immediately.
