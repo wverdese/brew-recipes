@@ -55,31 +55,31 @@ Choose one of the following:
 * Add remaining water (~1.5L L); stir gently until evenly mixed and submerged.
 * Seal fermenter, start fermentation at **18–20°C**.
 
-### Day 1–3: Active Fermentation
+### Day 1–3
 
-* Stir gently once daily with a sanitized spoon.
-* Maintain temperature around 18–20°C.
+* Stir gently once daily with sanitized spoon.
 
-### Day 5-6: Primary Straining & Deotsul Rice Addition
+### Day 4–5
 
-* Strain makgeolli through a fine mesh bag or cheesecloth to remove spent rice and nuruk residue.
-* Transfer the strained liquid into a sanitized fermenter.
-* Steam the chosen rice (see table above), let cool to room temperature.
-* Mix gently into active fermenting makgeolli.
-* Reseal fermenter and continue fermentation at **18–20°C**.
+* Seal fermenter and allow to ferment undisturbed.
 
-### Finishing Fermentation
+### Day 5–6 (Primary Straining & Deotsul Addition)
 
-* Monitor SG daily (target SG: ~1.030–1.035).
-* Once desired sweetness is reached, fermentation should be halted by immediate straining and refrigeration.
+* Strain makgeolli gently to remove spent rice and nuruk residue.
+* Steam chosen Deotsul rice, cool it to room temperature.
+* Add fresh rice gently to the strained liquid.
+* Stir carefully and reseal fermenter.
 
-### Day 10-12 Straining & Bottling
+### Day 7–12
 
-* Strain makgeolli through a fine mesh bag or cheesecloth.
-* Bottle in airtight bottles (e.g., soda bottles) immediately.
-* Refrigerate (2–4°C) immediately after bottling to halt fermentation.
-* Vent bottles daily if carbonation builds up.
+* Ferment sealed and undisturbed at 18–20°C.
 
+### Day 12 (Final Straining & Bottling)
+
+* Strain thoroughly with mesh bag or cheesecloth.
+* Bottle immediately in airtight bottles.
+* Refrigerate (2–4°C) to halt fermentation.
+* Vent bottles daily if carbonation pressure builds.
 ---
 
 ## Conditioning
