@@ -113,9 +113,9 @@
 
 ## Final Notes
 
-✅ A continental malt profile that keeps the beer pale and drinkable.
-✅ The 15-minute Hallertau addition gives subtle floral/herbal character without making it hop-forward.
-✅ Novalager keeps fermentation practical and clean.
+- A continental malt profile that keeps the beer pale and drinkable.
+- The 15-minute Hallertau addition gives subtle floral/herbal character without making it hop-forward.
+- Novalager keeps fermentation practical and clean.
 
 ---
 
