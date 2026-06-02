@@ -151,10 +151,10 @@ A Nordic-Italian hybrid: continental malt character, restrained noble hops, and 
 
 | Ingredient                | Needed  | Notes                       | URL                                                    | Price   |
 | ------------------------- | ------- | --------------------------- | ------------------------------------------------------ | ------- |
-| BEST Vienna Malt          | 3.50 kg | Main character malt         | https://holmbrew.no/produkt/best-vienna-malt-1-kg-hel  | 119 NOK |
-| BEST Pilsen Malt          | 2.50 kg | Brightness & fermentability | https://holmbrew.no/produkt/best-pilsen-malt-1-kg-hel  |  85 NOK |
-| Hallertau Mittelfrüh T90  | 40 g    | Noble hop                   | https://holmbrew.no/produkt/hallertau-mittelfruh-100-g |  89 NOK |
-| Mangrove Jack's M12 Kveik | 1 pack  | Fermentation                | https://holmbrew.no/produkt/kveik-m12                  |  69 NOK |
+| BEST Vienna Malt          | 3.50 kg | Main character malt         | [HolmBrew](https://holmbrew.no/produkt/best-vienna-malt-1-kg-hel)  | 119 NOK |
+| BEST Pilsen Malt          | 2.50 kg | Brightness & fermentability | [HolmBrew](https://holmbrew.no/produkt/best-pilsen-malt-1-kg-hel)  |  85 NOK |
+| Hallertau Mittelfrüh T90  | 40 g    | Noble hop                   | [HolmBrew](https://holmbrew.no/produkt/hallertau-mittelfruh-100-g) |  89 NOK |
+| Mangrove Jack's M12 Kveik | 1 pack  | Fermentation                | [HolmBrew](https://holmbrew.no/produkt/kveik-m12)                  |  69 NOK |
 | **Total**                 |         |                             |                                                        | 362 NOK |
 
 ---
