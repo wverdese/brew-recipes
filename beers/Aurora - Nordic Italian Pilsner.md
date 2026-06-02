@@ -121,12 +121,13 @@
 
 # 🛒 Shopping List
 
-| Ingredient               |  Needed | To buy | Notes                                | URL                                                                    |
-| ------------------------ | ------: | -----: | ------------------------------------ | ---------------------------------------------------------------------- |
-| BEST Pilsen Malt         | 4.50 kg |   5 kg | Base malt                            | [HolmBrew](https://holmbrew.no/produkt/best-pilsen-malt-1-kg-hel)      |
-| BEST Vienna Malt         | 0.50 kg |   1 kg | Light bread crust / honey malt note  | [HolmBrew](https://holmbrew.no/produkt/best-vienna-malt-1-kg-hel)      |
-| Hallertau Mittelfrüh T90 |    40 g |  100 g | Noble hop, bitterness + light flavor | [HolmBrew](https://holmbrew.no/produkt/hallertau-mittelfruh-100-g)     |
-| Lallemand Novalager      |  1 pack | 1 pack | Modern hybrid lager yeast            | [HolmBrew](https://holmbrew.no/produkt/lallemand-novalager-yeast-11g/) |
+| Ingredient               |  Needed | To buy | Notes                                | URL                                                                    | Price |
+| ------------------------ | ------: | -----: | ------------------------------------ | ---------------------------------------------------------------------- | ----- |
+| BEST Pilsen Malt         | 4.50 kg | 4.50 kg | Base malt                            | [HolmBrew](https://holmbrew.no/produkt/best-pilsen-malt-1-kg-hel)      | 153 NOK |
+| BEST Vienna Malt         | 0.50 kg | 0.50 kg | Light bread crust / honey malt note  | [HolmBrew](https://holmbrew.no/produkt/best-vienna-malt-1-kg-hel)      |  17 NOK |
+| Hallertau Mittelfrüh T90 |    40 g |  100 g | Noble hop, bitterness + light flavor | [HolmBrew](https://holmbrew.no/produkt/hallertau-mittelfruh-100-g)     |  89 NOK |
+| Lallemand Novalager      |  1 pack | 1 pack | Modern hybrid lager yeast            | [HolmBrew](https://holmbrew.no/produkt/lallemand-novalager-yeast-11g/) |  75 NOK |
+| **Total**                |         |        |                                      |                                                                        | 334 NOK |
 
 ---
 
