@@ -1,6 +1,6 @@
 You’re right — here is the full brewing recipe.
 
-# 🍺 Aurora – Nordic Italian Pils
+# 🍺 Aurora – Nordic Italian Pilsner
 
 ## Target Stats
 
