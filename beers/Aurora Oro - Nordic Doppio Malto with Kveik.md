@@ -1,4 +1,7 @@
-# 🍺 Aurora Oro – Golden Ale with Kveik
+<img width="1347" height="1168" alt="image" src="https://github.com/user-attachments/assets/a1c84241-2fc7-4bc1-8411-c17676f340d4" />
+
+
+# 🍺 Aurora Oro – Nordic Doppio Malto with Kveik
 
 *(21L Braumeister Version, Crystal Clear Golden Ale)*
 
@@ -161,16 +164,9 @@ A Nordic-Italian hybrid: continental malt character, restrained noble hops, and 
 
 # 🎮 Beer Brewing Simulator Substitutions
 
-| Real Ingredient           | Game Substitute        | Notes                                      |
-| ------------------------- | ---------------------- | ------------------------------------------ |
-| BEST Vienna Malt          | Vienna Malt            | Direct match                               |
-| BEST Pilsen Malt          | German Pilsner         | Closest base malt                          |
-| Hallertau Mittelfrüh      | Hallerdauer Mittelfruh | Direct mapping                             |
-| Mangrove Jack's M12 Kveik | Easy Grain             | Closest available ale/farmhouse equivalent |
-
-### Simulator Hop Schedule
-
-| Minute | Hop                    | Amount |
-| ------ | ---------------------- | -----: |
-| 60     | Hallerdauer Mittelfruh |   25 g |
-| 15     | Hallerdauer Mittelfruh |   15 g |
+| Real Ingredient           | Game Substitute        | Amount | Notes                                      |
+| ------------------------- | ---------------------- | -------|------------------------------------------- |
+| BEST Vienna Malt          | Vienna Malt            | 3 kg | Direct match                                 |
+| BEST Pilsen Malt          | German Pilsner         | 2 kg | Closest base malt                            |
+| Hallertau Mittelfrüh      | Hallerdauer Mittelfruh | 25+15 g | Direct mapping                            |
+| Mangrove Jack's M12 Kveik | Easy Grain             | 1 pack | Closest available ale/farmhouse equivalent |
