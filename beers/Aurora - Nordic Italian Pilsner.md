@@ -62,8 +62,7 @@
 
 | Minute | Stage | Temperature | Hop Addition              | Notes                  |
 | -----: | ----- | ----------- | ------------------------- | ---------------------- |
-|     60 | Boil  | 100°C       | 25 g Hallertau Mittelfrüh | Main bitterness        |
-|     15 | Boil  | 100°C       | 15 g Hallertau Mittelfrüh | Light noble hop flavor |
+|     60 | Boil  | 100°C       | 35 g Hallertau Mittelfrüh | Main bitterness        |
 
 ### Cooling
 
@@ -90,12 +89,6 @@
 | 8–9   | Cleanup             |    18°C |        1.009 | Hold warm                |
 | 10    | Cold crash          |   2–4°C |       Stable | Begin clarification      |
 | 10–17 | Lagering            |   2–4°C |       Stable | Optional but recommended |
-
-### Dry-Hopping Schedule
-
-| Day | Expected SG | Stage      | Temperature | Hop Addition | Notes                                        |
-| --- | ----------: | ---------- | ----------: | ------------ | -------------------------------------------- |
-| -   |           - | No dry hop |           - | -            | Intentionally restrained and budget-friendly |
 
 ### Packaging
 
@@ -125,7 +118,7 @@
 | ------------------------ | ------: | ------------------------------------ | ---------------------------------------------------------------------- | ----- |
 | BEST Pilsen Malt         | 4.50 kg | Base malt                            | [HolmBrew](https://holmbrew.no/produkt/best-pilsen-malt-1-kg-hel)      | 153 NOK |
 | BEST Vienna Malt         | 0.50 kg | Light bread crust / honey malt note  | [HolmBrew](https://holmbrew.no/produkt/best-vienna-malt-1-kg-hel)      |  17 NOK |
-| Hallertau Mittelfrüh T90 |    40 g | Noble hop, bitterness + light flavor | [HolmBrew](https://holmbrew.no/produkt/hallertau-mittelfruh-100-g)     |  89 NOK |
+| Hallertau Mittelfrüh T90 |    35 g | Noble hop, bitterness + light flavor | [HolmBrew](https://holmbrew.no/produkt/hallertau-mittelfruh-100-g)     |  89 NOK |
 | Lallemand Novalager      |  1 pack | Modern hybrid lager yeast            | [HolmBrew](https://holmbrew.no/produkt/lallemand-novalager-yeast-11g/) |  75 NOK |
 | **Total**                |         |                                      |                                                                        | 334 NOK |
 
