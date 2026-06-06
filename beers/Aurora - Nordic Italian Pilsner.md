@@ -1,3 +1,5 @@
+<img width="1082" height="620" alt="aurora" src="https://github.com/user-attachments/assets/e4d1e352-6f37-4fb1-80e2-28b6de677aa5" />
+
 # 🍺 Aurora – Nordic Italian Pilsner
 
 ## Target Stats
@@ -126,9 +128,9 @@
 
 # 🎮 Beer Brewing Simulator Substitutions
 
-| Real Ingredient      | Game Substitute        | Notes                                       |
-| -------------------- | ---------------------- | ------------------------------------------- |
-| BEST Pilsen Malt     | German Pilsner         | Closest base malt match                     |
-| BEST Vienna Malt     | Vienna Malt            | Direct functional match                     |
-| Hallertau Mittelfrüh | Hallerdauer Mittelfruh | Direct hop mapping from your simulator list |
-| Lallemand Novalager  | Kladsko Lager          | Closest clean lager yeast option            |
+| Real Ingredient      | Game Substitute        | Amount | Notes                                       |
+| -------------------- | ---------------------- | -------|------------------------------------ |
+| BEST Pilsen Malt     | German Pilsner         | 4 kg | Closest base malt match                     |
+| BEST Vienna Malt     | Vienna Malt            | 0.3 kg | Direct functional match                     |
+| Hallertau Mittelfrüh | Hallerdauer Mittelfruh | 35 g | Direct hop mapping from your simulator list |
+| Lallemand Novalager  | Kladsko Lager          | 1 pack | Closest clean lager yeast option            |
