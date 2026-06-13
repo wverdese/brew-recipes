@@ -60,11 +60,13 @@
 * Collect **~26 L** pre-boil.
 * Expected pre-boil gravity: **~1.044**.
 
-### Hop Schedule (~22 IBU total)
+### Boil Additions (~22 IBU total)
 
-| Minute | Stage | Temperature | Hop Addition              | Notes                  |
-| -----: | ----- | ----------- | ------------------------- | ---------------------- |
-|     60 | Boil  | 100°C       | 35 g Hallertau Mittelfrüh | Main bitterness        |
+| Time Remaining | Addition | Amount | Notes |
+|----------------|----------|---------|-------|
+| 60 min | Hallertau Mittelfrüh | 35 g | Bittering addition |
+| 10 min | Servomyces | 1 g | Yeast nutrient |
+| 10 min | Protafloc | 1 tablet | Clarity aid |
 
 ### Cooling
 
