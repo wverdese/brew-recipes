@@ -73,13 +73,14 @@ A Nordic-Italian hybrid: continental malt character, restrained noble hops, and 
 
 ---
 
-### Hop Schedule (~23 IBU)
+### Boil Additions (~23 IBU)
 
-| Minute | Stage | Temperature | Hop Addition              | Notes                        |
-| ------ | ----- | ----------- | ------------------------- | ---------------------------- |
-| 60     | Boil  | 100°C       | 25 g Hallertau Mittelfrüh | Main bittering addition      |
-| 15     | Boil  | 100°C       | 15 g Hallertau Mittelfrüh | Light noble aroma and flavor |
-| 15     | Boil  | 100°C       | 1 Protafloc tablet        | Clarity aid                  |
+| Time Remaining | Addition | Amount | Notes |
+|----------------|----------|---------|-------|
+| 60 min | Hallertau Mittelfrüh | 25 g | Main bittering addition |
+| 15 min | Hallertau Mittelfrüh | 15 g | Light noble aroma and flavor |
+| 10 min | Servomyces | 1 g | Yeast nutrient |
+| 10 min | Protafloc | recommended dosage | Clarity aid |
 
 ---
 
