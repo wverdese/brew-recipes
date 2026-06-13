@@ -66,7 +66,7 @@
 |----------------|----------|---------|-------|
 | 60 min | Hallertau Mittelfrüh | 35 g | Bittering addition |
 | 10 min | Servomyces | 1 g | Yeast nutrient |
-| 10 min | Protafloc | 1 tablet | Clarity aid |
+| 10 min | Protafloc | recommended dosage | Clarity aid |
 
 ### Cooling
 
