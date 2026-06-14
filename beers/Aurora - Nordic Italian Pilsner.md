@@ -30,6 +30,13 @@
 * **Cl**: 40–50 ppm
 * **SO₄**: 60–80 ppm
 
+With Oslo tap water (added at malts dough-in):
+
+| Additive        | Strike Water (~25–26 L)   |
+| ------------- | ------------------------- |
+| Gypsum     | 3 g Gypsum   |
+| Calcium Chloride | 4 mL CaCl₂ |
+
 ### pH
 
 * 5.3 to 5.4
