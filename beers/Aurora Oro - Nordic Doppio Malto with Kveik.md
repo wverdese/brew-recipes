@@ -37,6 +37,13 @@ A Nordic-Italian hybrid: continental malt character, restrained noble hops, and 
 * **Cl:** 50–60 ppm
 * **SO₄:** 50–70 ppm
 
+With Oslo tap water (added at malts dough-in):
+
+| Additive        | Strike Water (~25–26 L)   |
+| ------------- | ------------------------- |
+| Gypsum     | 1.5 g Gypsum   |
+| Calcium Chloride | 6 mL CaCl₂ |
+
 ### pH
 
 * Target **5.3–5.4**
