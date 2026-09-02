@@ -1,4 +1,4 @@
-# 🍺 Syrpup Night - Stroopwafel Christmas Amber Ale (20L, 7%)
+# 🍺 Syrup Night - Stroopwafel Christmas Amber Ale (20L, 7%)
 
 Braumeister All-Grain – Caramel-Dense Christmas Ale
 
