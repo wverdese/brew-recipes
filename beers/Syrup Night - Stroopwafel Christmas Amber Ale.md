@@ -192,7 +192,7 @@ Expected FG is approximately **1.016–1.019**, but the actual stable FG determi
 ### Dry-Hopping Schedule
 
 | Day | Expected SG | Stage | Temperature | Hop Addition | Notes |
-|---|---|---|---|---|
+|---|---|---|---|---| --- |
 | ~9–10 | Near FG | Vanilla conditioning | 20°C | **½ vanilla bean** | Taste after ~3 days |
 | ~12–14 | Stable | Remove/package | — | — | Don't let vanilla dominate |
 
