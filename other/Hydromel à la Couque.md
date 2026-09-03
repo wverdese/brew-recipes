@@ -149,12 +149,16 @@ That corresponds to:
 | Bottled      | 2–3 months minimum | Drinkable earlier, but likely substantially smoother with age           |
 | Longer aging | 6+ months          | Should soften the alcohol and integrate the rye/bread character further |
 
----
+## Profile Notes
 
-## Final Notes
+* **Aroma:** Honey-forward with soft cinnamon, caramelised sugar, and light rye-bread character. Fresh honey becomes more prominent after backsweetening.
+* **Flavour:** Rich honey and couque character up front, with fermented sugar dryness underneath, gentle cinnamon spice, and a subtle toasted/rye note.
+* **Sweetness:** Medium-sweet after backsweetening; aim for balance rather than dessert-level sweetness.
+* **Body:** Medium to medium-full, helped by residual dextrins and non-fermentable material from the bread.
+* **Acidity:** Low to moderate; enough to keep the honey from tasting cloying.
+* **Alcohol:** Noticeable but smooth, around **12–13% ABV**, ideally warming rather than hot.
+* **Finish:** Honeyed, lightly spiced, with lingering bread/caramel notes.
+* **Appearance:** Golden to amber, likely with some haze from the bread adjunct unless given extended cold conditioning.
+* **Overall character:** A strong honey mead with a distinct Belgian/French honey-cake impression rather than a botanical or heavily spiced mead.
 
-* **Use 1.35–1.40 kg of your 1.50 kg honey in primary**, rather than all of it. With the bread's ~172 g sugar contribution, this gives you much better control around your **12–13% target**.
-* Keep the remaining honey for **backsweetening**.
-* Expect a **large sediment layer** from the rye flour, yeast and bread particles.
-* The finished dry mead may initially taste more alcoholic and less honey-like than expected. The fresh honey character will return strongly when you backsweeten.
-* Since the bread already contains **cinnamon**, skip the mjødurt.
+Note: The finished dry mead may initially taste more alcoholic and less honey-like than expected. The fresh honey character will return strongly when you backsweeten.
