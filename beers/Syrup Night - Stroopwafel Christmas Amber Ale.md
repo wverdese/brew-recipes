@@ -96,37 +96,6 @@ Start this while the Braumeister is doing its main mash so it doesn't add much t
 | Pale Ale Malt |  **200 g** |
 | Water         | **~2.0 L** |
 
-#### Mini-Mash Schedule
-
-| Step             | Temperature |       Time | Action                                                          |
-| ---------------- | ----------: | ---------: | --------------------------------------------------------------- |
-| Heat water       |       ~67°C |          — | Heat ~2.0 L water                                               |
-| Dough-in         | **65–66°C** |          — | Add 200 g crushed Pale Ale malt                                 |
-| Add stroopwafels | **65–66°C** |          — | Add 350 g broken-up stroopwafels                                |
-| Saccharification | **65–66°C** | **40 min** | Stir gently every 5–10 min                                      |
-| Strain           |           — |          — | Pass through a fine brew bag/sieve                              |
-| Drain            |           — |          — | Gently squeeze/press the solids                                 |
-| Transfer         |           — |          — | Add collected liquid to the Braumeister wort **before boiling** |
-
-Notes:
-- Putting them directly in the water is preferable to mashing inside the bag because we want the stroopwafels to break apart completely, the syrup to dissolve, and the crushed malt enzymes to have unrestricted contact with the waffle starch. We can use the bag to strain later.
-- This setup is actually nicer for the Braumeister than our original plan: its malt pipe now handles only **5.8 kg of actual grain plus rice hulls**, while we still retain the full **6.0 kg grain bill and 600 g total stroopwafel addition**.
-
-### Coordinating Both Mashes
-
-An easy brew-day sequence is:
-
-1. Start the **Braumeister mash at 67°C**.
-2. Once that's running normally, heat **~2 L** water in a separate pot.
-3. Add **200 g Pale Ale malt + 350 g broken stroopwafels** and stabilize at **65–66°C**.
-4. Hold the mini-mash for **40 minutes**, stirring occasionally.
-5. Strain it and set the collected liquid aside.
-6. Finish the Braumeister's **60-minute 67°C rest + 75°C mash-out**.
-7. Lift and sparge the malt pipe.
-8. **Pour the strained stroopwafel wort into the Braumeister.**
-9. Check your resulting pre-boil volume/gravity.
-10. Begin the normal **60-minute boil**.
-
 ### Lauter / Sparge
 
 * Lift the malt pipe after mash-out.
@@ -136,30 +105,40 @@ An easy brew-day sequence is:
 
 ### Hop Schedule (~19 IBU total)
 
-| Minute | Stage            | Temperature | Addition                  | Notes                           |
-| -----: | ---------------- | ----------: | ------------------------- | ------------------------------- |
-|      0 | Start of boil    |       100°C | Magnum                    | Dose for ~16 IBU                |
-|     50 | 10 min remaining |       100°C | 20 g Goldings             | ~2–3 IBU + subtle hop character |
-|     55 | 5 min remaining  |       100°C | **250 g stroopwafels**    | Late flavour addition           |
-|     55 | 5 min remaining  |       100°C | **0.5 g ground cinnamon** | Reinforces stroopwafel spice    |
-|     55 | 5 min remaining  |       100°C | **0.2 g ground nutmeg**   | Background bakery warmth        |
-|     55 | 5 min remaining  |       100°C | **3 g orange zest**       | Brightness                      |
-|     60 | Flameout         |           — | —                         | Chill immediately               |
+| Minute | Main mash        | Mini-mash        | Addition                  | Notes                           |
+| -----: | ---------------- | ---------------- | ------------------------- | ------------------------------- |
+|      0 | Start of boil    | -                | -                         | Start counting at 100°C         |
+|     30 | 60 min remaining | -                | 10 g Magnum               | Bittering                       |
+|     60 | -                | Start of boil    | -                         | Keep simmering if too fast      |
+|     80 | 10 min remaining | -                | 20 g Goldings             | Subtle hop character            |
+|     85 | -                | 5 min remaining  | **250 g stroopwafels**    | Late flavour addition           |
+|     85 | -                | 5 min remaining  | **0.5 g ground cinnamon** | Reinforces stroopwafel spice    |
+|     85 | -                | 5 min remaining  | **0.2 g ground nutmeg**   | Background bakery warmth        |
+|     85 | -                | 5 min remaining  | **3 g orange zest**       | Brightness                      |
+|     90 | Flameout         | Flameout         | —                         | -                               |
+|     90 | Post-Flameout    | -                | Add mini-mash to mash     | Rinse pot with hot wort if necessary |
 
-For Magnum, calculate the actual mass from the alpha acid percentage of the hops you buy rather than fixing the recipe to an assumed AA%.
+### Mini-Mash + Main Braumeister Timeline
 
-#### Notes:
-
-The **split stroopwafel addition is deliberate**:
-
-* **350 g mash:** integrated caramel/biscuit character + starch conversion.
-* **250 g at 5 min:** stronger recognizable stroopwafel/caramel character.
-
-Break the late stroopwafels into small pieces and add them **gradually while stirring**. Don't let a sticky mass settle against the Braumeister heating surface.
-
-There is a deliberate trade-off here: the late addition introduces some unconverted wafer starch and fat directly into the wort. I'm accepting that because recognizable stroopwafel character is a priority.
-
-The beer may therefore have somewhat reduced head retention and potentially some haze.
+| Braumeister – Main Batch                                                                                  | Stroopwafel Mini-Mash / Concentrate                                                                                                                                             |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Main mash – 67°C, 60 min**                                                                              | **Start mini-mash:** Heat ~2 L water and stabilize at **65–66°C**. Add **200 g Pale Ale Malt + 350 g broken stroopwafels**.                                                     |
+| Continue main mash at **67°C**                                                                            | Hold mini-mash at **65–66°C for 40 min**. Stir gently every 5–10 min.                                                                                                           |
+| Raise to **75°C** for mash-out                                                                            | After 40 min, strain mini-mash through a brew bag. Allow to drain; gently squeeze. Collect the cloudy stroopwafel wort.                                                         |
+| Hold mash-out at **75°C for 10 min**                                                                      | Cover the strained concentrate and set aside.                                                                                                                                   |
+| Lift malt pipe and sparge with **~75°C water**                                                            | Keep concentrate covered. No heating required yet.                                                                                                                              |
+| Bring main wort toward boil                                                                               | Keep concentrate covered.                                                                                                                                                       |
+| **Start 90 min boil**                                                                                     | Concentrate remains covered and set aside.                                                                                                                                      |
+| **60 min remaining:** Add **11 g Magnum** *(assuming ~13.6% AA; adjust to actual packet AA if different)* | Concentrate remains covered.                                                                                                                                                    |
+| **30 min remaining:** Continue normal boil                                                                | Begin gently reheating the stroopwafel concentrate. Keep covered initially and stir periodically.                                                                               |
+| **~20–15 min remaining:** Continue normal boil                                                            | Once concentrate reaches a boil, reduce to a very gentle simmer. If it reaches boiling early, heat may be switched off and the pot kept covered. Avoid unnecessary evaporation. |
+| **10 min remaining:** Add **20 g Goldings**                                                               | Ensure concentrate is hot. If heat was switched off, begin bringing it back to a boil now.                                                                                      |
+| **7–8 min remaining:** Continue main boil                                                                 | Concentrate should now be approaching or at a gentle boil. Stir to prevent settling/scorching.                                                                                  |
+| **5 min remaining:** Continue main boil                                                                   | **Add 250 g broken stroopwafels + 0.5 g ground cassia cinnamon + 0.15 g ground nutmeg + 3 g candied orange peel.** Maintain a gentle boil for **5 min**, stirring frequently.   |
+| **0 min – Flameout:** Switch off Braumeister heater                                                       | After exactly ~5 min with the late additions, switch off the pot heat.                                                                                                          |
+| **Immediately post-flameout:** Main wort remains hot; do not begin chilling yet                           | Pour the **entire hot stroopwafel concentrate** into the Braumeister.                                                                                                           |
+| **Post-flameout:** Stir/whirlpool thoroughly to distribute the concentrate through the main wort          | Rinse the small pot with a small amount of hot wort if needed to recover remaining caramel/concentrate; return the rinse to the Braumeister.                                    |
+| **After concentrate is fully incorporated:** Begin chilling to **18°C**                                   | Mini-mash/concentrate process complete.                                                                           
 
 ### Cooling
 
@@ -258,15 +237,13 @@ The main unknown is exactly how much flavour, extract and fat your particular st
 | Flaked Oats        |     300 g |     300 g | Mouthfeel                    |  10,50 kr | [HolmBrew](https://holmbrew.no/produkt/flaket-havre-1-kg/) |
 | Rice Hulls         |     200 g | 1 bag (500 g) | Mash circulation             | —     | [HolmBrew](https://holmbrew.no/produkt/risskall-500g/) |
 | Stroopwafels       |     600 g | 4 packs - 720 g | 350 g mini-mash + 250 g late boil | 155.60 kr | [Europris](https://www.europris.no/p-sirupsvafler-180-g-208054?_gl=1*zil8vj*_up*MQ..*_ga*MTgyOTEyMTUzMy4xNzg4MzczODA4*_ga_4DBNQ6G65F*czE3ODgzNzM4MDUkbzEkZzAkdDE3ODgzNzM4MTgkajQ3JGwwJGgxNjI4NDEwNjA.) |
-| Magnum             | ~10–12 g* |     100 g | Bittering                    | —     | from past brew |
+| Magnum             |      10 g |     100 g | Bittering                    | —     | from past brew |
 | Goldings           |      20 g |     100 g | Subtle hop flavour           | —     | from past brew |
 | Ground Cinnamon    |     0.5 g |    1 pack | Stroopwafel spice            | —     | from kitchen |
 | Ground Nutmeg      |     0.2 g |   1 whole | Stroopwafel spice            | —     | from kitchen |
 | Orange Zest        |       3 g |         1 | Christmas note               | —     | from past brew |
 | Vanilla Bean       |    ½ bean |         1 | Post-fermentation            |  40,70 kr | [Meny](https://oda.com/no/products/6118-toro-vaniljestang/) |
 | Lallemand Windsor  |    2 bags |         2 | English ale yeast            | 138,00 kr | [HolmBrew](https://holmbrew.no/produkt/lallemand-windsor-11g/) |
-
-*Adjust for the actual Magnum alpha acid percentage.
 
 ## 💰 Cost
 
