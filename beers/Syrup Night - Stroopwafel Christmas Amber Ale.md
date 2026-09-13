@@ -106,7 +106,7 @@ Start this while the Braumeister is doing its main mash so it doesn't add much t
 | ------------- | ---------: |
 | Stroopwafels  |  **350 g** |
 | Pale Ale Malt |  **200 g** |
-| Water         | **~2.5 L + 1.0 L** |
+| Water         | **2.5 L + 1.0 L** |
 
 ### Lauter / Sparge
 
@@ -141,7 +141,7 @@ Start this while the Braumeister is doing its main mash so it doesn't add much t
 | Lift malt pipe and sparge with **~75°C water**                                                            | Keep concentrate covered. No heating required yet.                                                                                                                              |
 | Bring main wort toward boil                                                                               | Keep concentrate covered.                                                                                                                                                       |
 | **Start 90 min boil**                                                                                     | Concentrate remains covered and set aside.                                                                                                                                      |
-| **60 min remaining:** Add **11 g Magnum** *(assuming ~13.6% AA; adjust to actual packet AA if different)* | Concentrate remains covered.                                                                                                                                                    |
+| **60 min remaining:** Add **11 g Magnum**                                                                 | Concentrate remains covered.                                                                                                                                      |
 | **30 min remaining:** Continue normal boil                                                                | Begin gently reheating the stroopwafel concentrate. Keep covered initially and stir periodically.                                                                               |
 | **~20–15 min remaining:** Continue normal boil                                                            | Once concentrate reaches a boil, reduce to a very gentle simmer. If it reaches boiling early, heat may be switched off and the pot kept covered. Avoid unnecessary evaporation. |
 | **10 min remaining:** Add **20 g Goldings**                                                               | Ensure concentrate is hot. If heat was switched off, begin bringing it back to a boil now.                                                                                      |
