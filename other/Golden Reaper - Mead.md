@@ -1,4 +1,4 @@
-# Golder Reaper - Pineapple, Lime & Carolina Reaper Mead (5 L, 12–13% ABV)
+# Golden Reaper - Pineapple, Lime & Carolina Reaper Mead (5 L, 12–13% ABV)
 
 Tropical capsicumel made with pineapple, lime and one whole Carolina Reaper. This is deliberately an experimental, intensely chili-forward batch.
 
